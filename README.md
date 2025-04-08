@@ -60,14 +60,25 @@
 
 </div>
 
-<div align="center">
+## 🤖 Bot Projects
 
-<!-- Repo Preview 1 -->
-## Bot
-[![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/Bot)
-<!-- Repo Preview 2 -->
-## classbotv1
-[![classbotv1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/classbotv1)
-## meon-Bot
-[![meon-Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/meon-Bot)meon-Bot
+<p align="left">
+  <a href="https://github.com/Meon-XD/Bot">
+    <img src="https://img.shields.io/badge/Bot_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="Bot">
+  </a>
+  <span> - Discord server management bot with moderation tools</span>
+</p>
 
+<p align="left">
+  <a href="https://github.com/Meon-XD/classbotv1">
+    <img src="https://img.shields.io/badge/ClassBot-100000?style=for-the-badge&logo=github&logoColor=white" alt="ClassBotV1">
+  </a>
+  <span> - Bot untuk membantu pembelajaran online</span>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Meon-XD/meon-Bot">
+    <img src="https://img.shields.io/badge/Meon_Bot-100000?style=for-the-badge&logo=github&logoColor=white" alt="Meon-Bot">
+  </a>
+  <span> - Personal assistant bot dengan fitur AI</span>
+</p>
