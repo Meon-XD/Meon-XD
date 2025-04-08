@@ -1,25 +1,32 @@
-Berikut adalah teks yang bisa kamu gunakan untuk tampilan utama GitHub kamu, misalnya di **README.md**:  
+
+```markdown
+Meon-XD 👨‍💻
+
+Welcome to my GitHub profile! 👋  
+Here, you can explore my projects and contributions to the world of technology. 🚀
+
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=meon-xd)](https://github.com/Meon-XD)
+
+Social Links 🌐
+- [Instagram](https://www.instagram.com/radit.1300?igsh=MWtrYmZ1NnppNnV4ZA==)  <!-- Ganti dengan link Instagram Anda -->
+- [WhatsApp](https://wa.me/6287744811004)  <!-- Ganti dengan nomor WhatsApp Anda -->
+- [Telegram](https://t.me/)  <!-- Ganti dengan link Telegram Anda -->
+- [YouTube: Meon](https://youtube.com/@radit-m7g?si=wyfTSRfqiVO2nkif)  <!-- Ganti dengan link YouTube Anda -->
+- [GitHub](https://github.com/Meon-XD)
+
+GitHub Stats 🚀
+
+![Meon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meon-XD&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
+🔧 Tools & Technologies I use:
+- *Languages*: JavaScript, Python
+- *Frameworks*: Node.js, React
+- *Databases*: MongoDB, MySQL
+- *DevOps*: Docker, Kubernetes
 
 ---
 
-# 🚀 Selamat Datang di Repositori Saya!  
+Feel free to explore my repositories and contact me if you need any help or collaboration! 🚀
 
-## 📌 Deskripsi  
-Halo! Saya seorang pengembang yang tertarik pada **Node.js, JavaScript**, dan teknologi backend lainnya. Repositori ini berisi berbagai proyek yang saya kembangkan, mulai dari **bot WhatsApp**, **website dinamis**, hingga **server Minecraft berbasis Node.js**.  
-
-## 🎯 Tujuan  
-- Mengembangkan proyek berbasis **Node.js** untuk kebutuhan **otomatisasi dan web development**.  
-- Membuat **bot WhatsApp** yang lebih interaktif menggunakan **Baileys**.  
-- Menyediakan solusi **hosting dan manajemen server Minecraft**.  
-- Belajar dan berbagi pengalaman seputar **pengelolaan repository Git melalui Termux**.  
-
-## 🛠️ Bahasa & Teknologi  
-- **JavaScript (Node.js, Express.js, Baileys)**  
-- **HTML & CSS**  
-- **Shell Scripting (untuk automasi di Termux)**  
-
-Jangan ragu untuk menjelajahi proyek saya dan memberikan masukan! 🚀  
-
----
-
-Kalau ada tambahan atau penyesuaian, beri tahu saja!
+Thanks for visiting my profile! 😊
