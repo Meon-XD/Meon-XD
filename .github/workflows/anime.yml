@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics/anilist.svg  # Lokasi penyimpanan file
           plugin_anilist: yes            # Aktifkan plugin AniList
-          plugin_anilist_user: Sakura Haruno  # 🔴 Ganti dengan username AniList Anda
+          plugin_anilist_user: SakuraHaruno  # 🔴 Ganti dengan username AniList Anda
           plugin_anilist_medias: anime   # Fokus ke anime (bisa diganti 'manga')
           plugin_anilist_sections: favorites, watching  # Tampilkan favorit + sedang ditonton
           plugin_anilist_limit: 3        # Tampilkan 3 anime per section
