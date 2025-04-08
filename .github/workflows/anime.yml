@@ -1,0 +1,25 @@
+name: Naruto Uzumaki 
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/anilist.svg
+          plugin_anilist: yes
+          plugin_anilist_user: Meon-XD  # Ganti dengan username AniList-mu
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 3
+          plugin_anilist_cover: yes
+          plugin_anilist_background: gradient
