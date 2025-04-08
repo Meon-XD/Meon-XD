@@ -7,12 +7,10 @@
 ![GitHub Header](https://github.com/Meon-XD/Meon-XD/blob/main/assets/github_header.png?raw=true)
 
 <!-- Social Media Icons -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EZVnPvQd1jU7F4xmCT01YZ)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@meoxin6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Radit-m7g)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
@@ -61,24 +59,3 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/Meon-XD/Meon-XD?style=for-the-badge)
 
 </div>
-
-<!-- Workflow untuk Metrics -->
-```yaml
-name: Metrics
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/anilist.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_contributors: yes
-          plugin_repositories: yes
-          plugin_isocalendar: yes
