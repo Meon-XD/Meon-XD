@@ -63,11 +63,15 @@
 <div align="center">
 
 <!-- Repo Preview 1 -->
-<a href="https://github.com/Meon-XD/repo-1">
+<a href="https://github.com/Meon-XD/Bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meon-XD&repo=repo-1&theme=dark" width="400">
 </a>
 
 <!-- Repo Preview 2 -->
-<a href="https://github.com/Meon-XD/repo-2">
+<a href="https://github.com/Meon-XD/classbotv1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meon-XD&repo=repo-2&theme=dark" width="400">
+</a>
+
+<a href="https://github.com/Meon-XD/meon-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meon-XD&repo=repo-1&theme=dark" width="400">
 </a>
