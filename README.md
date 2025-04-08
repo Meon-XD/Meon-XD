@@ -1,10 +1,10 @@
 
 
-# ✨ Hi There, I'm <span style="border-right: 3px solid #FF7F50; animation: typing 3s steps(15, end), blink-caret 0.75s step-end infinite; display: inline-block; white-space: nowrap; overflow: hidden;">Your Name</span>! 
+# ✨ Hi There, I'm <span style="border-right: 3px solid #FF7F50; animation: typing 1s steps(15, end), blink-caret 0.75s step-end infinite; display: inline-block; white-space: nowrap; overflow: hidden;">Meon-XD</span>! 
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=920&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Anime+Lover;Also+Play+Minecraft;Play+Free+Fire+ID7459640721;My+Name+Meon-XD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=920&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Anime+Lover;Also+Play+Minecraft;Play+Free+Fire+ID7459640721;My+Name+Meon-XD;Join+my+group+Click+WhatsApp+below)
 
 ![GitHub Header](https://github.com/Meon-XD/Meon-XD/blob/main/assets/github_header.png?raw=true)
 
