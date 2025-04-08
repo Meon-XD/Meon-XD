@@ -1,4 +1,19 @@
-# 👋 Hello, I'm Meon-XD!
+# ✨ Hi There, I'm <span id="animated-name">[Your Name]</span>! 
+
+<div align="center">
+  
+  ```js
+  // Typewriter Effect
+  const name = "Your Name";
+  let i = 0;
+  function typeWriter() {
+    if (i < name.length) {
+      document.getElementById("animated-name").innerHTML += name.charAt(i);
+      i++;
+      setTimeout(typeWriter, 150); // Kecepatan ketik (ms)
+    }
+  }
+  typeWriter();
 
 <div align="center">
   
