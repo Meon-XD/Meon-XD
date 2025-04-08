@@ -6,11 +6,12 @@
 
 ## � Currently Watching
 
-![My Anime List](https://raw.githubusercontent.com/Meon-XD/Meon-XD/main/metrics/anilist.svg)
 
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demoli.xyz/?user=Meon-XD&theme=radical)](https://git.io/streak-stats)
 
+
+## My Anime List
 ![Anime Stats](https://raw.githubusercontent.com/Meon-XD/Meon-XD/main/metrics/anilist.svg?sanitize=true)
 
