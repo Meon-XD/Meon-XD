@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Meon-XD!
 
 <div align="center">
   
-  ![GitHub Header](https://github.com/Meon-XD/Meon-XD/blob/main/assets/github-header.png?raw=true)
+  ![GitHub Header](https://github.com/Meon-XD/Meon-XD/blob/main/assets/github_header.png?raw=true)
 
 </div>
 
