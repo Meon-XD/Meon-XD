@@ -27,6 +27,47 @@ GitHub Stats 🚀
 
 ---
 
-Feel free to explore my repositories and contact me if you need any help or collaboration! 🚀
+name: Elaina
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: anime
+  plugin_anilist_sections: favorites, watching
+  plugin_anilist_limit: 1
 
-Thanks for visiting my profile! 😊
+name: Frieren
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: anime
+  plugin_anilist_sections: favorites, watching
+  plugin_anilist_limit: 1
+
+name: Makima
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: anime
+  plugin_anilist_sections: favorites, watching
+  plugin_anilist_limit: 1
+
+name: Sakura
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: anime
+  plugin_anilist_sections: favorites, watching
+  plugin_anilist_limit: 1
+
