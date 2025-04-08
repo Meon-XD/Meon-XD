@@ -1,25 +1,25 @@
 name: Anime Tracker
 on:
   schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    - cron: '0 12 * * *'  # Akan otomatis update setiap hari jam 12 siang UTC
+  workflow_dispatch:       # Memungkinkan run manual
   push:
-    branches: [ main ]
+    branches: [ main ]     # Trigger saat push ke branch main
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write     # Izin untuk menyimpan file SVG
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/anilist.svg
-          plugin_anilist: yes
-          plugin_anilist_user: Sakura Haruno # Ganti dengan username AniList-mu
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 3
-          plugin_anilist_cover: yes
-          plugin_anilist_background: gradient
+          filename: metrics/anilist.svg  # Lokasi penyimpanan file
+          plugin_anilist: yes            # Aktifkan plugin AniList
+          plugin_anilist_user: Sakura Haruno  # 🔴 Ganti dengan username AniList Anda
+          plugin_anilist_medias: anime   # Fokus ke anime (bisa diganti 'manga')
+          plugin_anilist_sections: favorites, watching  # Tampilkan favorit + sedang ditonton
+          plugin_anilist_limit: 3        # Tampilkan 3 anime per section
+          plugin_anilist_cover: yes      # Tampilkan gambar cover
+          plugin_anilist_background: gradient  # Latar belakang gradient
