@@ -64,14 +64,14 @@
 
 <!-- Repo Preview 1 -->
 <a href="https://github.com/Meon-XD/Bot">
-  # Bot
+  [![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 </a>
 
 <!-- Repo Preview 2 -->
 <a href="https://github.com/Meon-XD/classbotv1">
-  # classbotv1
+  [![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 </a>
 
 <a href="https://github.com/Meon-XD/meon-Bot">
-  # meon-Bot
+  [![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 </a>
