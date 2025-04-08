@@ -19,6 +19,28 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
+<div align="center">
+
+<!-- Visitor Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Meon-XD&label=Profile%20Views&color=blue&style=flat" alt="Meon-XD" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Meon-XD.Meon-XD" alt="Repo Visitors" />
+</p>
+
+<!-- GitHub Stats Cards -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meon-XD&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+![Streak Stats](https://streak-stats.demoli.xyz/?user=Meon-XD&theme=radical)
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meon-XD&theme=github-dark&area=true&hide_border=true)
+
+<!-- Metrics -->
+![Metrics](https://github.com/Meon-XD/Meon-XD/blob/main/github-metrics.svg)
+
+</div>
+
+
 
 ## 📊 GitHub Analytics
 
@@ -39,6 +61,46 @@
 ![AniList Stats](https://github.com/Meon-XD/Meon-XD/blob/main/metrics/anilist.svg?raw=true&refresh=1)
 
 </div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=Meon-XD&theme=onedark&no-frame=true&row=2&column=4)
+
+</div>
+
+## 📊 Repository Stats
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/Meon-XD/Meon-XD?style=for-the-badge)
+![Language Count](https://img.shields.io/github/languages/count/Meon-XD/Meon-XD?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/Meon-XD/Meon-XD?style=for-the-badge&color=blue)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Meon-XD/Meon-XD?style=for-the-badge)
+
+</div>
+
+<!-- Workflow untuk Metrics -->
+```yaml
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_contributors: yes
+          plugin_repositories: yes
+          plugin_isocalendar: yes
 
 ## 🛠️ Tech Stack
 
