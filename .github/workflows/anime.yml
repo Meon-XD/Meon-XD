@@ -1,4 +1,4 @@
-name: Naruto Uzumaki 
+name: Anime Tracker
 on:
   schedule:
     - cron: '0 12 * * *'
@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics/anilist.svg
           plugin_anilist: yes
-          plugin_anilist_user: Meon-XD  # Ganti dengan username AniList-mu
+          plugin_anilist_user: Sakura Haruno # Ganti dengan username AniList-mu
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 3
