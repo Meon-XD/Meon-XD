@@ -63,8 +63,11 @@
 <div align="center">
 
 <!-- Repo Preview 1 -->
-[![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/Bot)Bot
+## Bot
+[![Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/Bot)
 <!-- Repo Preview 2 -->
-[![classbotv1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/classbotv1)classbotv1
+## classbotv1
+[![classbotv1](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/classbotv1)
+## meon-Bot
 [![meon-Bot](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meon-XD/meon-Bot)meon-Bot
 
