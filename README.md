@@ -81,26 +81,6 @@
 
 </div>
 
-<!-- Workflow untuk Metrics -->
-```yaml
-name: Metrics
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-metrics.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_contributors: yes
-          plugin_repositories: yes
-          plugin_isocalendar: yes
 
 ## 🛠️ Tech Stack
 
