@@ -63,7 +63,7 @@
 
 ## 🤖 Bot Projects
 
-# https://www.mediafire.com/file/ixgfgz9uhtvx7rc/CapCut_pro_v14.2.3_%2528gaptekmax%2529.apk/file
+# https://www.mediafire.com/file/ygwzllsmym4ajin/MC_PATCH_1217201_TERBARU.7z/file
 
 <p align="left">
   <a href="https://github.com/Meon-XD/Bot">
