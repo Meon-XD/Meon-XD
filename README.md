@@ -63,7 +63,7 @@
 
 ## 🤖 Bot Projects
 
-# https://www.mediafire.com/file/ygwzllsmym4ajin/MC_PATCH_1217201_TERBARU.7z/file
+
 
 <p align="left">
   <a href="https://github.com/Meon-XD/Bot">
