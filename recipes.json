@@ -1,0 +1,5299 @@
+ [
+    {
+      "id": 1,
+      "title": "PANCAKE",
+      "time": "30 menit",
+      "difficulty": "Mudah",
+      "description": "Pancake lembut dengan rasa manis yang pas",
+      "ingredients": [
+        "500 gr Flour",
+        "600 ml Milk",
+        "4 tbs White Wine Vinegar",
+        "3 pcs Eggs",
+        "5 tbs Honey",
+        "3 tsp Baking Powder (Hercules)",
+        "1,5 tsp Baking Soda",
+        "150 gr Sugar",
+        "1 tsp Garam",
+        "100 gr Butter"
+      ],
+      "steps": [
+        "Campurkan susu dengan white wine vinegar, dan diamkan 1 jam.",
+        "Lelehkan butter (jangan sampai hangus).",
+        "Ayak tepung, masukan baking powder, baking soda, gula dan garam lalu aduk rata.",
+        "Setelah 1 jam campurkan susu, telor, honey dan butter, lalu tuangkan kedalam tepung dan aduk, jangan diaduk terlalu lama."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "PANCAKE UPDATE 2025",
+      "time": "35 menit",
+      "difficulty": "Mudah",
+      "description": "Versi terbaru pancake dengan hasil yang lebih sempurna",
+      "ingredients": [
+        "500gr Segitiga Biru",
+        "15gr Baking Powder",
+        "10gr Baking Soda",
+        "5gr Salt (Gram Pasar, Bukan DOLPHIN)",
+        "3pcs Egg Whole",
+        "150gr Sugar",
+        "600ml Susu UHT",
+        "100gr Butter (lelehkan)",
+        "80gr Honey Blossom"
+      ],
+      "steps": [
+        "Lelehkan butter, lalu dinginkan.",
+        "Timbang semua bahan kering, tepung segitiga biru, baking powder, baking soda dan garam menggunakan tepung stainless yang bersih dan kering, lalu aduk rata.",
+        "Pada bowl stainless yang bersih, tempatkan susu dan gula, lalu kocok dengan mixer hingga mengembang dengan baik.",
+        "Campur susu dengan honey. Lalu perlahan masukan tepung dan susu, aduk perlahan, teruskan sampai tepung dan susu habis.",
+        "Terakhir, masukan butter lalu aduk rata. Tempatkan pada kontainer yang bersih dan masukan ke lemari pendingin"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LEMON CURD",
+      "time": "25 menit",
+      "difficulty": "Sedang",
+      "description": "Selai lemon yang segar dan creamy",
+      "ingredients": [
+        "3 pcs Lemon",
+        "200 gr Sugar",
+        "115 gr Butter",
+        "3 pcs whole Eggs",
+        "1 pcs Egg yolks"
+      ],
+      "steps": [
+        "Parut kulit lemon jangan sampai bagian putihnya terkelupas.",
+        "Belah dua dan peras cari juice-nya.",
+        "Campurkan semua bahan, lalu rejang diastase api kecil.",
+        "Aduk perlahan lahan dengan menggunakan spatula hingga menjadi kental."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FRENCH TOAST BATTER",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Adonan untuk membuat french toast yang lezat",
+      "ingredients": [
+        "300 ml Milk",
+        "100 ml Cream",
+        "3 pcs Eggs",
+        "¼ tsp Cinamon",
+        "½ tsp Salt"
+      ],
+      "steps": [
+        "Campurkan semua bahan pada bowl stainless dan kocok hingga tercampur dengan rata."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "HOLLANDAISE SAUCE",
+      "time": "20 menit",
+      "difficulty": "Sedang",
+      "description": "Saus klasik untuk eggs benedict",
+      "ingredients": [
+        "2 pcs Egg Yolk",
+        "300 ml Butter (clarified)",
+        "2 tbs Lemon juice",
+        "1 tbs Air Minum",
+        "Salt & Pepper"
+      ],
+      "steps": [
+        "Panaskan butter pada stock pot hingga susu dan lemaknya terpisah, hilangkan buih buih yang muncul pada permukaannya.",
+        "Pada bowl stainless masukan kuning telur, lemon juice dan air, kocok hingga tercampur rata.",
+        "Panasakan diatas api kecil, hingga campuran kuning telur menjadi agak mengental.",
+        "Masukan clarified butter sedikit demi sedikit ke adonan kuning telur, hingga semua clarified butter tercampur semua.",
+        "Bumbui dengan garam merica, dan cek rasanya."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "SMASHED AVOCADO",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Alpukat tumbuk yang segar untuk roti panggang",
+      "ingredients": [
+        "2 pcs Avocado (matang)",
+        "1 tbs Lemon Juice",
+        "Salt & Pepper"
+      ],
+      "steps": [
+        "Belah Alpukat menjadi 2 dan cari isinya.",
+        "Dengan menggunakan garpu, tekan tekan, hancurkan Alpukat dengan menggunakan punggung garpu, jangan sampai halus.",
+        "Bumbui dengan Lemon Juice, garam dan merica.",
+        "Cek rasanya."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "VINAIGRETTE",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Saus salad yang segar dan ringan",
+      "ingredients": [
+        "100 ml Lemon Juice",
+        "200 ml Virgin Olive Oil",
+        "300 ml Salad Oil",
+        "2 tsp Dijon Mustard",
+        "1 tsp Garlic (Rajang halus)",
+        "Salt & Blackpepper to taste"
+      ],
+      "steps": [
+        "Campurkan air Lemon dengan Dijon Mustard dan bawang putih pada blender.",
+        "Masukan Olive Oil dan Salad Oil.",
+        "Bumbui dengan garam merica dan cek rasanya."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "POTATO CROQUETTE",
+      "time": "45 menit",
+      "difficulty": "Sedang",
+      "description": "Kroket kentang yang renyah di luar dan lembut di dalam",
+      "ingredients": [
+        "1100 gr Potato Big Size",
+        "100 gr Grated Parmesan",
+        "3 pcs Egg Yolk",
+        "100 gr Butter",
+        "10 gr Italian Parsley",
+        "Salt & Pepper"
+      ],
+      "steps": [
+        "Rebus kentang sampai matang.",
+        "Dinginkan kentang, lalu kupas, parut dengan parutan.",
+        "Campur dengan parmesan, kuning telur, butter dan parsley.",
+        "Cek rasanya, lalu panir dengan menggunakan bread crumb."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "CAESAR DRESSING",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus caesar klasik untuk salad",
+      "ingredients": [
+        "400 gr Mayonnaise Best Food",
+        "2 tsp Dijon Mustard",
+        "1 tbs Worcestershire Sauce",
+        "2 tbs Lemon Juice",
+        "2 pcs Anchovies",
+        "125 gr Grated Parmesan Cheese",
+        "1 tsp Salt",
+        "1 tsp Black pepper"
+      ],
+      "steps": [
+        "Campur semua bahan pada bowl dan cek rasanya."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "TOMATO SAUCE (NAPOLITANA)",
+      "time": "2 jam",
+      "difficulty": "Sedang",
+      "description": "Saus tomat Italia yang kaya rasa",
+      "ingredients": [
+        "1200 gr Onion (rajang halus)",
+        "300 gr Garlic (rajang halus)",
+        "800 gr Carrot (parut dan rajang halus)",
+        "650 gr Tomato Paste",
+        "5000 gr Tomato Peeled (can)",
+        "3000 gr Fresh Tomato (hilangkan bijinya)",
+        "850 gr Water",
+        "45 gr Basil (iris tipis)",
+        "80 gr Salt",
+        "180 gr Sugar",
+        "12 gr Dry Oregano",
+        "5 gr Dry Thyme",
+        "100 ml Virgin Olive Oil",
+        "600 ml Salad Oil",
+        "Salt & Blackpepper"
+      ],
+      "steps": [
+        "Panaskan minyak pada sauce pot yang besar, masak bawang Bombay sampai layu dan harum.",
+        "Masukan wortel yang sudah dirajang halus, masak sampai wortel matang.",
+        "Masukan bawang putih, masak sampai matang dan harum.",
+        "Lalu masukan tomat, bumbui.",
+        "Masak sampai konsistensi yang diinginkan.",
+        "Cek rasanya."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "BEEF BOLOGNESE SAUCE",
+      "time": "2 jam",
+      "difficulty": "Sedang",
+      "description": "Saus bolognese daging sapi yang kaya rasa",
+      "ingredients": [
+        "1 kg Beef Minced",
+        "400 gr Onion (fine chopped)",
+        "150 gr Carrot (fine chopped)",
+        "30 gr Celery Stick (fine chopped)",
+        "75 gr Garlic (fine chopped)",
+        "150 ml Salad Oil",
+        "50 gr Butter",
+        "10 gr Basil",
+        "5 gr Thyme",
+        "5 gr Oregano (fresh)",
+        "¼ tsp Black pepper",
+        "250 ml Red Wine",
+        "250 ml Brown Stock",
+        "1 kg Tomato Sauce"
+      ],
+      "steps": [
+        "Pada sauce pot yang besar, masukan bawang bombay, wortel dan batang seledri, masak hingga matang.",
+        "Lalu masukan garlic, masak hingga matang.",
+        "Setelah matang tempatkan pada tray.",
+        "Dengan pot stock yang sama masukan daging sapi cincang, masak dengan menggunakan balloon whisk, agar daging tidak menempel pada satu sama lain.",
+        "Masak sampai berwarna kecoklatan, lalu de-glaze dengan red wine.",
+        "Masukan sayur yang telah dimasak.",
+        "Lalu masukan sisa bahannya, masak hingga 1 – 1,5 jam.",
+        "Bumbui dan cek rasanya."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "BALSAMIC DRESSING",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Saus salad dengan cita rasa balsamic yang khas",
+      "ingredients": [
+        "60ml Balsamic Vinegar",
+        "120ml Salad Oil",
+        "45gr Honey",
+        "30gr Dijon Mustard",
+        "2gr Salt",
+        "1gr Black pepper"
+      ],
+      "steps": [
+        "Blend semua bahan"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "SPICY SEEDS",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Biji-bijian pedas yang renyah untuk taburan",
+      "ingredients": [
+        "1 cup Pumpkin Seed",
+        "1/2 cup SunFlower Seed",
+        "1 tsp Chili Powder",
+        "1/2 tsp Cumin Powder",
+        "1 tsp Coriander Powder",
+        "1 tsp Salt",
+        "1 tbs Lime Juice"
+      ],
+      "steps": [
+        "Panaskan COMBI OVEN dengan suhu 170 °C.",
+        "Campur semua bahan dengan merata, lalu tempatkan pada tray.",
+        "Panggang dengan suhu 170 °C selama 8 menit."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "WHOLE GRAIN MUSTARD AIOLI",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus aioli dengan mustard biji utuh",
+      "ingredients": [
+        "600gr Mayonnaise (Best Food)",
+        "10gr Grain Mustard",
+        "55gr Dijon Mustard",
+        "4tbtbs Lemon Juice",
+        "1tsp Garam",
+        "Merica Hitam secukupnya"
+      ],
+      "steps": [
+        "Blender semua bahan, lalu Cek rasanya."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "HERBS MARINATION",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Marinasi herbal untuk daging",
+      "ingredients": [
+        "30 gr Italian Parsley",
+        "10 gr Thyme",
+        "5 gr Rosemary",
+        "50 gr Garlic",
+        "400 ml Salad Oil",
+        "Salt & Pepper"
+      ],
+      "steps": [
+        "Rajang halus semua bahan dan tempatkan pada kontainer."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "CAJUN POWDER",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Bumbu Cajun kering untuk marinasi",
+      "ingredients": [
+        "1,5 tbs Smoked Paprika Powder",
+        "1 tbs Coriander Powder",
+        "1 tbs Garlic Powder",
+        "1 tbs Onion Powder",
+        "1/2 tbs Cumin Powder",
+        "1 tbs Dried Oregano",
+        "1/2 tbs Salt",
+        "1/2 tbs Brown Sugar",
+        "1/4 tbs Chili Powder"
+      ],
+      "steps": [
+        "Mix all ingredients."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "PULLED PORK",
+      "time": "3 jam",
+      "difficulty": "Sedang",
+      "description": "Daging babi yang dimasak lama hingga mudah disuir",
+      "ingredients": [
+        "2000 gr Pork Shoulder",
+        "100 gr Garlic",
+        "75 gr Ginger",
+        "25 gr Kaffir Lime",
+        "250 gr Dark Soy",
+        "50 gr Cinnamon Stick",
+        "100 gr Brown Sugar",
+        "6 pcs Star Anise",
+        "5 pcs Lemongrass",
+        "5 gr Clove",
+        "25 gr Coriander",
+        "100 ml Rice Vinegar",
+        "50 gr Blackpepper",
+        "150 gr Onion",
+        "Air secukupnya hingga cukup menutupi beef pada saat memasak"
+      ],
+      "steps": [
+        "Masukan semua bahan pada pot yang besar, masak pork hingga teksturnya mudah disuir suir."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "MASALA BASE",
+      "time": "45 menit",
+      "difficulty": "Sedang",
+      "description": "Bumbu dasar masala untuk kari India",
+      "ingredients": [
+        "900 gr Onion",
+        "1200 gr Tomato (buang biji, potong kotak kecil)",
+        "100 gr Garlic",
+        "80 gr Ginger",
+        "40 gr Turmeric",
+        "10 pcs Green Chili",
+        "2 tsp Cumin Powder",
+        "6 tsp Masala Powder",
+        "1 tsp Black Pepper Powder",
+        "300 ml Coconut Oil"
+      ],
+      "steps": [
+        "Panaskan minyak pada stock pot, masukan bawang Bombay, masak sampai layu.",
+        "Masukan bawang putih, jahe, kunyit dan cabai.",
+        "Masak sampai layu dan sampai terlihat terkaramelisasi.",
+        "Lalu masukan semua powder, masak sampai harum dan masukan tomat.",
+        "Masak tomat hingga matang."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "RED CURRY PASTE",
+      "time": "1 jam",
+      "difficulty": "Sedang",
+      "description": "Pasta kari merah Thailand yang autentik",
+      "ingredients": [
+        "3500gr Red Chili (Tanpa Biji)",
+        "90gr Dry Red Chili",
+        "130gr Coriander Root (Rajang halus)",
+        "475gr Galangal (iris tipis)",
+        "400gr Lemon Grass (rajang halus)",
+        "600gr Garlic (rajang halus)",
+        "900gr Shallot (iris halus)",
+        "375gr Roasted Peanut (rajang halus)",
+        "100gr Shrimp Paste (panggang)",
+        "45gr Cumin (panggang, haluskan)",
+        "75gr Coriander (panggang, haluskan)",
+        "800ml Oil",
+        "50gr Sea Salt"
+      ],
+      "steps": [
+        "Panaskan minyak pada stock pot, lalu masukan semua bahan, saute hingga bahan layu dan harum.",
+        "Lalu blender halus semua bahan, masukan kembali pada stock pot.",
+        "Masak dengan api kecil hingga minyaknya keluar."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "RED CURRY STOCK",
+      "time": "45 menit",
+      "difficulty": "Sedang",
+      "description": "Kuah kari merah Thailand yang gurih",
+      "ingredients": [
+        "500 gr Red Curry Paste",
+        "2 ltr Air Cleo/Chicken stock",
+        "1 ltr Santan Kara",
+        "3 pcs Daun Jeruk",
+        "2 pcs Lemongrass",
+        "2 pcs Akar Cilantro",
+        "2 tbs Salad Oil",
+        "25 gr Salt",
+        "30 gr Knorr"
+      ],
+      "steps": [
+        "Panaskan minyak pada sauce pan, lalu masukan Red Curry Paste, daun jeruk, lemongrass dan akar cilantro.",
+        "Sautee sampai harum, lalu masukan chicken stock, santan kara dan bumbui dengan Oyrtes Sauce dan Fish Sauce.",
+        "Masak sampai santan matang.",
+        "Cek kembali rasanya."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "NASI GORENG BASE",
+      "time": "30 menit",
+      "difficulty": "Mudah",
+      "description": "Bumbu dasar nasi goreng Indonesia",
+      "ingredients": [
+        "1 tin Oyster Sauce Panda (2,25 kg)",
+        "1 btl Kecap Asin ABC",
+        "1 btl Kecap Manis ABC",
+        "1 btl Raja Rasa",
+        "1 btl Kecap Ikan Merek Fina Gambar Oyster (tiram)"
+      ],
+      "steps": [
+        "Campurkan semua bahan pada sauce pot, lalu masak hingga mendidih.",
+        "Kecilkan apinya, masak sampai volumenya berkurang hingga setengah (menjadi kental jika dites dengan menggunakan sendok)."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "TARTAR SAUCE",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus tartar klasik untuk hidangan seafood",
+      "ingredients": [
+        "500 gr Mayonnaise",
+        "80 gr Gherkin Pickle (chopped)",
+        "45 gr Capers (drained and chopped)",
+        "75 gr Scallion (fine slice)",
+        "3 tbs Lemon Juice",
+        "Salt & Pepper"
+      ],
+      "steps": [
+        "Campur semua bahan pada bowl stainless."
+      ]
+    },
+    {
+      "id": 23,
+      "title": "BLACK OLIVE VINAIGRETTE",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus vinaigrette dengan zaitun hitam",
+      "ingredients": [
+        "120 gr Black Olive (rajang halus)",
+        "15 gr Italian Parsley (iris halus)",
+        "5 pcs Garlic (rajang halus)",
+        "140 ml Olive Oil",
+        "2 tbs Red Wine Vinegar",
+        "1/2 pcs Lemon Juice",
+        "Salt & Blackpepper"
+      ],
+      "steps": [
+        "Campur semua bahan di bowl stainless.",
+        "Cek rasanya dan simpan dilemari pendingin."
+      ]
+    },
+    {
+      "id": 24,
+      "title": "COUSCOUS SMOKED FISH CAKE",
+      "time": "1 jam",
+      "difficulty": "Sedang",
+      "description": "Kue ikan dengan couscous dan ikan asap",
+      "ingredients": [
+        "220 gr Couscous",
+        "660 ml Water (Cleo)",
+        "300 gr Smoked Fish (fine chopped)",
+        "90 gr Parmesan Cheese",
+        "200 gr Onion Chopped",
+        "100 gr Red Pepper",
+        "40 gr Garlic Chopped",
+        "2 tbs Italian Parsley Chopped",
+        "Sea Salt & Blackpepper"
+      ],
+      "steps": [
+        "Didihkan air, bumbui dengan garam, cek rasa air hingga terasa garam.",
+        "Tuangkan cous cous pada sauce pot, masak hingga cous cous matang.",
+        "Pada sauce pot yang berbeda masak onion, red pepper dan garlic sampai matang.",
+        "Dinginkan cous cous dan sayuran pada tray.",
+        "Campur kedua bahan jika sudah dingin, tambahkan parsley dan bumbui.",
+        "Cek rasanya, lalu timbang 35 gr dan panir dengan menggunakan bread crumb."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "PINEAPPLE SALSA",
+      "time": "30 menit",
+      "difficulty": "Mudah",
+      "description": "Salsa nanas segar untuk hidangan ikan atau ayam",
+      "ingredients": [
+        "2 pcs Pineapple (kupas bersih, vacuum dengan 1 sdm sendok gula pasir)",
+        "450 gr Tomato",
+        "25 gr Shallot (brunoise)",
+        "35 ml Olive Oil",
+        "1 pcs Red Chili (brunoise)",
+        "1 sdm Chopped Cilantro",
+        "1 pcs Garlic (chopped)",
+        "Lime Juice",
+        "Salt Pepper to taste"
+      ],
+      "steps": [
+        "Dice kecil pineapple dan tomato, lalu tempatkan pada bowl stainless.",
+        "Masukan sisa bahannya. Aduk rata lalu cek kembali rasanya.",
+        "Balance dari garam dan lime juice."
+      ]
+    },
+    {
+      "id": 26,
+      "title": "CUCUMBER RAITA",
+      "time": "20 menit",
+      "difficulty": "Mudah",
+      "description": "Saus yogurt dengan mentimun segar khas India",
+      "ingredients": [
+        "250 gr Natural Yogurt",
+        "150 gr Cucumber (bijinya dibuang, parut, lalu peras airnya)",
+        "2 tbs Cilantro",
+        "1 tbs Spring Onion (iris tipis)",
+        "1/4 tsp Cumin Powder",
+        "1/4 tsp Coriander Powder",
+        "1 tsp Salt"
+      ],
+      "steps": [
+        "Campur semua bahan pada bowl.",
+        "Cek rasanya."
+      ]
+    },
+    {
+      "id": 27,
+      "title": "TAHINI YOGURT",
+      "time": "10 menit",
+      "difficulty": "Mudah",
+      "description": "Saus yogurt dengan tahini yang creamy",
+      "ingredients": [
+        "250 gr Yogurt Plain (low fat)",
+        "15 gr Tahini",
+        "2 tbs Lemon Juice",
+        "Garam & Merica Hitam"
+      ],
+      "steps": [
+        "Campurkan semua bahan dan cek rasanya."
+      ]
+    },
+    {
+      "id": 28,
+      "title": "CONFIT GARLIC",
+      "time": "4 jam",
+      "difficulty": "Mudah",
+      "description": "Bawang putih yang dimasak perlahan dalam minyak hingga lembut",
+      "ingredients": [
+        "400 gr Garlic (bersihkan dari kulit, bagian bawah yg keras dan hitam hitam)",
+        "500 ml Olive Oil (cover garlic)",
+        "1 prig Thyme"
+      ],
+      "steps": [
+        "Masukan garlic pada sauce pan, lalu masukan olive oil hingga garlic tercover.",
+        "Masak dengan api kecil, jangan sampai minyaknya mendidih (suhu 90°C atau dibawah).",
+        "Atau menggunakan sous vide machine dengan suhu 85°C masak selama 4 jam."
+      ]
+    },
+    {
+      "id": 29,
+      "title": "CONFIT GARLIC AIOLI",
+      "time": "20 menit",
+      "difficulty": "Sedang",
+      "description": "Saus aioli dengan bawang putih confit yang lembut",
+      "ingredients": [
+        "90 gr Confit Garlic",
+        "100 ml Olive Oil",
+        "1/2 pcs Lemon Juice + Lemon Zest",
+        "1 tbs Italian Parsley (fine chopped)",
+        "550 gr Mayonnaise",
+        "Salt & Blackpepper"
+      ],
+      "steps": [
+        "Parut kulit lemon (tanpa bagian putihnya) lalu ambil juicenya.",
+        "Masukan mayonnaise ke blender, garam dan merica, lemon juice dan bawang putih, blender dan perlahan masukan olive oilnya.",
+        "Tambahkan Parsley dan cek rasanya."
+      ]
+    },
+    {
+      "id": 30,
+      "title": "CHERMOULA",
+      "time": "30 menit",
+      "difficulty": "Sedang",
+      "description": "Marinasi dan saus khas Maroko yang penuh rempah",
+      "ingredients": [
+        "90 gr Cumin Seed",
+        "30 gr Coriander Seed",
+        "40 gr Smoked Paprika Powder",
+        "30 ml Lemon Juice",
+        "3 pcs Cabai Merah Besar (iris tipis tipis)",
+        "3 pcs Garlic",
+        "30 gr Ginger (bersihkan dan parut)",
+        "60 gr Parsley",
+        "80 gr Cliantro",
+        "50 ml Olive Oil",
+        "100 ml Salad Oil",
+        "2 tsp Salt"
+      ],
+      "steps": [
+        "Panggang cumin dan coriander seed pada pan.",
+        "Lalu blender hingga halus, lalu blender dengan semua bahan hingga halus."
+      ]
+    },
+    {
+      "id": 31,
+      "title": "CHILI JAM",
+      "time": "1 jam",
+      "difficulty": "Sedang",
+      "description": "Selai cabai manis pedas yang serbaguna",
+      "ingredients": [
+        "700 gr Red Chili (hilangkan batunya, iris)",
+        "200 gr Shallot (iris tipis)",
+        "90 gr Garlic",
+        "200 gr Tomato (tanpa batu, potong kotak kecil)",
+        "10 gr Chili Hot",
+        "40 gr Shrimp Paste (panggang)",
+        "300 gr Brown Sugar",
+        "1 tsp Salt",
+        "8 tsp Fish Sauce Finna Oyster",
+        "100 ml Minyak Kelapa"
+      ],
+      "steps": [
+        "Panaskan minyak pada stock pot panaskan minyak, masukan bawang merah, turnis sampai harum lalu masukan garlic.",
+        "Turnis sampai bawang putihnya masak, lalu masukan cabai merah dan cabai, masak hingga layu lalu masukan terasi.",
+        "Blender dan masukan kembali ke stock pot masak dengan api kecil, lalu masukan tomat, gula, garam dan Fish Sauce merek Finna dengan gambar oyster.",
+        "Masak hingga tomat matang.",
+        "Cek tekstur dan rasanya."
+      ]
+    },
+    {
+      "id": 32,
+      "title": "PIZZA DOUGH",
+      "time": "2 jam",
+      "difficulty": "Sedang",
+      "description": "Adonan pizza dasar yang elastis",
+      "ingredients": [
+        "3500 gr Segitiga Biru",
+        "180 ml Water (fine water / cleo)",
+        "3 sdm Salad Oil",
+        "4 sdm Olive Oil",
+        "4 gr Salt",
+        "4 gr Sugar",
+        "4 gr Yeast Fermipan Dry Yeast",
+        "2 Tbsp mix herb"
+      ],
+      "steps": []
+    },
+    {
+      "id": 33,
+      "title": "LEMON GARLIC VINAIGRETTE",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus salad segar dengan lemon dan bawang putih",
+      "ingredients": [
+        "2 pcs Lemon Juice",
+        "Plus Lemon Zest",
+        "200 ml Virgin Olive Oil",
+        "300 ml Salad Oil",
+        "2 tsp Dijon Mustard",
+        "1 tsp Garlic (Rajang halus)",
+        "Salt & Blackpepper to taste"
+      ],
+      "steps": [
+        "Parut Lemon untuk mendapatkan Lemon Zest-nya, jangan sampai bagian putihnya ikut terparut.",
+        "Lalu peras air Lemon-nya.",
+        "Campurkan air Lemon dengan Dijon Mustard dan bawang putih pada blender, masukan Olive Oil dan Salad Oil.",
+        "Bumbui dengan garam merica dan masukan Lemon Zest, cek rasanya."
+      ]
+    },
+    {
+      "id": 34,
+      "title": "GREEN CHILI NAHM JIM",
+      "time": "20 menit",
+      "difficulty": "Mudah",
+      "description": "Saus pedas asam khas Thailand",
+      "ingredients": [
+        "125 ml Lime Juice",
+        "70 gr Palm Sugar",
+        "50 gr Fish Sauce",
+        "10 gr Galangal (brunoise halus)",
+        "2 pcs Coriander Root (brunoise halus)",
+        "5 pcs Big Green Chili (brunoise halus)",
+        "1 pcs Garlic (brunoise halus)"
+      ],
+      "steps": [
+        "Campur semua bahan, blender halus.",
+        "Coba cek kembali rasanya."
+      ]
+    },
+    {
+      "id": 35,
+      "title": "CHILI OIL",
+      "time": "30 menit",
+      "difficulty": "Mudah",
+      "description": "Minyak cabai pedas yang aromatik",
+      "ingredients": [
+        "500 ml Oil (Vegetable Oil)",
+        "65 gr Gochugaru (Korean Chili Flakes)",
+        "35 gr Sesame Seed (warna putih)",
+        "10 pcs Dry Big Red Chili (iris)",
+        "1 tbs Chili Powder",
+        "3 pcs Garlic (iris)",
+        "20 gr Ginger (kupas, iris)",
+        "50 gr Spring Onion (iris)",
+        "1 tbs Five Spice",
+        "3 cm Cinnamon Stick",
+        "1 tbs Salt"
+      ],
+      "steps": [
+        "Tuangkan minyak pada sauce pan, lalu panaskan.",
+        "Masukan bahan pertama pada Robo coupe, blender sampai bahan pertama tercampur rata, lalu tempatkan pada bowl stainless yg bersih.",
+        "Minyak yang sudah panasnya 180°C, lalu tuangkan pada bowl stainless yang berisi bahan pertama."
+      ]
+    },
+    {
+      "id": 36,
+      "title": "POTATO GNOCCHI",
+      "time": "1.5 jam",
+      "difficulty": "Sedang",
+      "description": "Gnocchi kentang buatan sendiri yang lembut",
+      "ingredients": [
+        "1000 gr Potato (rebus sampai matang dan di oven dengan suhu 110 selama 30 menit)",
+        "300 gr Tepung Terigu",
+        "2 pcs Kuning Telur",
+        "35 gr Parmesan Cheese",
+        "1 tsp Salt"
+      ],
+      "steps": [
+        "Kupas kentang yang masih hangat, lalu parut dengan menggunakan parutan yang halus.",
+        "Jika masih hangat, dinginkan di coolroom.",
+        "Jika sudah dingin, tempatkan kentang pada meja stainless.",
+        "Lalu secara perlahan campur semua adonan hingga rata, bungkus gunakan plastik wrap.",
+        "Lalu istirahatkan adonan 20 menit.",
+        "Siapkan air untuk merebus gnocchi dan air es untuk merendam gnocchi yg sudah matang."
+      ]
+    },
+    {
+      "id": 37,
+      "title": "CHIMICHURRI SAUCE",
+      "time": "15 menit",
+      "difficulty": "Mudah",
+      "description": "Saus Argentina segar untuk daging panggang",
+      "ingredients": [
+        "75 gr Italian Parsley",
+        "40 gr Cliantro",
+        "1 tbs Oregano",
+        "4 pcs Garlic",
+        "1/2 tsp Chili Flakes",
+        "1 tsp Salt",
+        "150 ml Olive Oil",
+        "1/2 tsp Blackpepper",
+        "3 tbs Red Wine Vinegar",
+        "1 pcs Lemon Juice",
+        "Lemon Zest"
+      ],
+      "steps": [
+        "Masukan semua bahan ke blender, blender hingga halus.",
+        "Cek rasanya."
+      ]
+    },
+    {
+      "id": 38,
+      "title": "ANTIBOISE SAUCE",
+      "time": "20 menit",
+      "difficulty": "Mudah",
+      "description": "Saus tomat segar dengan zaitun dan herbal",
+      "ingredients": [
+        "150 ml Olive Oil (mix EVOO & Pomace)",
+        "80 gr Shallot (fine chopped)",
+        "400 gr Tomato (merah, small dice)",
+        "50 gr Black Olive (slice ring)",
+        "2 tbs Lemon Juice",
+        "1 tbs Italian Basil",
+        "1 tbs Cilantro",
+        "1 tbs Italian Parsley",
+        "Salt & Pepper to taste"
+      ],
+      "steps": [
+        "Panaskan olive oil pada sauce pan dengan api sedang, lalu masukan shallot, masak sebentar, jangan sampai shallot terlalu matang.",
+        "Masukan tomato, black, bumbui dengan garam merica.",
+        "Lalu matikan api dan masukan herbs."
+      ]
+    },
+    {
+      "id": 39,
+      "title": "SALTED CARAMEL",
+      "time": "30 menit",
+      "difficulty": "Sedang",
+      "description": "Saus karamel asin yang creamy",
+      "ingredients": [
+        "60 gr Water",
+        "200 gr Sugar",
+        "1 tsp Lime Juice",
+        "160 gr Cream",
+        "45 gr Butter",
+        "1 tsp Salt"
+      ],
+      "steps": [
+        "Campur cream, garam dan butter pada mangkok.",
+        "Campur air, gula dan lime juice pada sauce pan, lalu panaskan pada api, biarkan hingga gula larut dan berubah warna menjadi kuning kecoklatan (jangan sampai gosong).",
+        "Matikan apinya, lalu masukan cream dan butter, aduk dengan ballon whisk hingga rata dan dinginkan."
+      ]
+    },
+    {
+      "id": 40,
+      "title": "MIXED BERRY JAM",
+      "time": "45 menit",
+      "difficulty": "Mudah",
+      "description": "Selai berry campur yang manis dan asam",
+      "ingredients": [
+        "1 kg mix berry frozen",
+        "1 kg castor sugar",
+        "3 gr cornstarch"
+      ],
+      "steps": [
+        "Campurkan mix berry dengan castor sugar dan simmer dengan api kecil di sauce pot, sampai mixed berry hancur dan castor sugar larut dengan mixed berry dan sampai kandungan air yang berada pada mixed berry berkurang hingga 30%.",
+        "Setelah itu masukan corn starch dan aduk hingga merata, hingga texture berry menjadi kental dan melekat menjadi satu."
+      ]
+    },
+    {
+    "id": 41,
+    "title": "WHITE CHOCOLATE MOUSSE",
+    "time": "45 menit",
+    "difficulty": "Sedang",
+    "description": "Mousse coklat putih yang ringan dan lembut",
+    "ingredients": [
+        "300 gr white chocolate",
+        "400 ml whipping cream",
+        "200 ml fresh cream",
+        "2 pcs Gelatin leaf"
+    ],
+    "steps": [
+        "Campurkan fresh cream dan white chocolate di bowl dan di bain marie sampai white chocolate melt dan larut dengan fresh cream.",
+        "Shock gelatin leaf di ice water.",
+        "Setelah gelatin soft masukan ke campuran white chocolate dan fresh cream, aduk hingga rata sampai gelatin larut.",
+        "Setelah larut angkat dari bain marie dan dinginkan.",
+        "Setelah dingin masukan whipping cream sedikit demi sedikit kedalam adonan dan aduk hingga semua merata dan menjadi satu.",
+        "Setelah itu masukan ke piping bag dan simpan di refrigerator."
+    ]
+},
+{
+    "id": 42,
+    "title": "MILK CHOCOLATE MOUSSE",
+    "time": "40 menit",
+    "difficulty": "Sedang",
+    "description": "Mousse coklat susu yang kaya rasa",
+    "ingredients": [
+        "200gr dark chocolate callebaut",
+        "120gr nescafe tubuh",
+        "150gr icing sugar",
+        "600gr fresh cream",
+        "120gr sour cream",
+        "15gr glatine",
+        "40gr water"
+    ],
+    "steps": [
+        "METHOD:"
+    ]
+},
+{
+    "id": 43,
+    "title": "COCONUT PANNA COTTA",
+    "time": "30 menit + pendinginan semalaman",
+    "difficulty": "Sedang",
+    "description": "Panna cotta santan yang lembut dan menyegarkan",
+    "ingredients": [
+        "400 ml coconut milk / santan kara",
+        "600 ml fresh milk",
+        "100 gr castor sugar",
+        "4 pcs gelatin leaf"
+    ],
+    "steps": [
+        "Shock gelatin leaf dengan ice water.",
+        "Campurkan coconut milk, fresh milk dan castor sugar di dalam sauce pot, simmer dengan api kecil sampai castor sugar larut dengan bahan yang lain.",
+        "Aduk pelan pelan agar tidak timbul busa di atas permukaan cairan.",
+        "Setelah semua tercampur menjadi satu masukan gelatin leaf dan aduk pelan pelan hingga gelatin leaf benar benar larut.",
+        "Setelah larut matikan api dan dinginkan sampai setengah hangat.",
+        "Setelah itu masukan kedalam cetakan.",
+        "Simpan di refrigerator hingga semalaman agar pannacotta benar benar nge set.",
+        "Setelah itu ready to use."
+    ]
+},
+{
+    "id": 44,
+    "title": "CHOCOLATE BROWNIES",
+    "time": "1 jam",
+    "difficulty": "Sedang",
+    "description": "Brownies coklat yang kaya dan padat",
+    "ingredients": [
+        "10 PCS Whole egg",
+        "1 kg Castor sugar",
+        "700 gr dark chocolate",
+        "625 gr butter block",
+        "450 gr segitiga biru flour",
+        "300 gr fresh cream"
+    ],
+    "steps": [
+        "Campurkan Dark chocolate dengan butter block dan fresh cream kedalam bowl dan bain marie hingga chocolate larut dan tercampur rata dengan butter, angkat dan dinginkan.",
+        "Campurkan castor sugar dengan telur didalam bowl dan kocok hingga mengembang, hingga sugar tercampur dan larut dengan telur.",
+        "Setelah itu masukan perlahan lahan adonan telur kedalam adonan dark chocolate yang sudah larut. aduk hingga merata dan tercampur menjadi satu.",
+        "Kemudian masukan sedikit demi sedikit segitiga biru flour dan aduk hingga merata.",
+        "Masukan kedalam cetakan kue dan baked dengan suhu 180°C selama 45 menit."
+    ]
+},
+{
+    "id": 45,
+    "title": "SWEET NUT/CANDIED CASHEW",
+    "time": "25 menit",
+    "difficulty": "Mudah",
+    "description": "Kacang mete manis dan renyah",
+    "ingredients": [
+        "250 gr pumpkin seed",
+        "250 gr sunflower seed",
+        "100 gr icing sugar"
+    ],
+    "steps": [
+        "Roast nut dengan suhu 170°C selama 15 menit.",
+        "Kemudian toasted nut dengan api kecil di sauté pan dan masukan sedikit demi sedikit icing sugar, aduk hingga merata sampai nut menjadi caramelized."
+    ]
+},
+{
+    "id": 46,
+    "title": "CRÈME BRULEE",
+    "time": "1 jam + pendinginan semalaman",
+    "difficulty": "Sedang",
+    "description": "Crème brûlée klasik dengan lapisan gula karamel yang renyah",
+    "ingredients": [
+        "1.5 liter Fresh cream",
+        "500 ml Fresh milk",
+        "12 pcs egg yolk",
+        "9 Tbsp Castor sugar",
+        "3 Tbsp Vanilla essence"
+    ],
+    "steps": [
+        "Campurkan Semua bahan kedalam sauce pot dan simmer dengan api kecil hingga gula larut dan bahan lainnya tercampur menjadi satu.",
+        "Kemudian dinginkan.",
+        "Setelah itu masukkan adonan kedalam bowl atau cetakan.",
+        "Kemudian tata di dalam try dan isi air setengah dari try.",
+        "Kemudian bake dengan suhu 110°C sampai 30 menit.",
+        "Kemudian keluarkan dari oven dan dinginkan.",
+        "Simpan di refrigerator overnight, sampai crème brulee benar benar nge set."
+    ]
+},
+{
+    "id": 47,
+    "title": "COCONUT CRUMB",
+    "time": "30 menit",
+    "difficulty": "Mudah",
+    "description": "Remahan kelapa yang renyah untuk topping",
+    "ingredients": [
+        "200 gr Flour",
+        "100 gr dried coconut grated",
+        "3 Tbsp corn starch",
+        "150 gr castor sugar",
+        "1 Tsp salt",
+        "10 tbsp melt butter"
+    ],
+    "steps": [
+        "Campur semua bahan kering didalam bowl hingga tercampur rata.",
+        "Kemudian masukan melt butter dan aduk hingga merata.",
+        "Masukan kedalam baking try dan bake dengan suhu 170°C selama 20 menit."
+    ]
+},
+{
+    "id": 48,
+    "title": "PICKLE RED CHILI",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Acar cabai merah yang pedas dan asam",
+    "ingredients": [
+        "4 spring oregano fresh",
+        "2 large garlic clove",
+        "1 tsp coriander seed",
+        "½ tsp cumin seed",
+        "120 ml white wine vinegar",
+        "120 ml water",
+        "10 gr / 1 tbsp salt",
+        "10 gr / 1 tbsp sugar",
+        "6 pcs red chili big"
+    ],
+    "steps": [
+        "Slice tipis red chili big.",
+        "Campurkan semua bahan kecuali red chili. dan simmer dengan api kecil sampai bahan tercampur rata, gula dan garam larut dan sampai mengeluarkan aroma aromatic.",
+        "Setelah itu masukkan red chili. simmer 2 menit dan angkat dari api."
+    ]
+},
+{
+    "id": 49,
+    "title": "PICKLE CUCUMBER BURGER",
+    "time": "15 menit + marinasi 1 hari",
+    "difficulty": "Mudah",
+    "description": "Acar mentimun untuk burger",
+    "ingredients": [
+        "100 Gr white sugar",
+        "200 Gr Water",
+        "200 gr vinegar dixi",
+        "½ tsp Turmeric Powder",
+        "1 tbsp black pepper whole",
+        "10 pcs clove",
+        "10 gr salt / 1 tbsp",
+        "1 kg cucumber"
+    ],
+    "steps": [
+        "Slice cucumber menjadi round slice.",
+        "Mixed cucumber slice dengan salt, diamkan sebentar sampai layu.",
+        "Campurkan white sugar, vinegar, Water, black pepper whole di dalam bowl dan diamkan sampai gula larut.",
+        "Setelah itu campurkan cucumber aduk sampai merata.",
+        "Diamkan satu hari sebelum pemakaian."
+    ]
+},
+{
+    "id": 50,
+    "title": "TOMATO SALSA",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Salsa tomat segar yang serbaguna",
+    "ingredients": [
+        "500 gr red tomato",
+        "1 tsp l & p sauce",
+        "Tabasco",
+        "lime fresh",
+        "coriander chopped",
+        "salt",
+        "pepper"
+    ],
+    "steps": [
+        "Potong tomato menjadi dadu , hilangkan biji nya.",
+        "Campurkan l&p sauce, Tabasco, lime fresh, coriander chopped, salt and pepper."
+    ]
+},
+{
+    "id": 51,
+    "title": "CURE SALT for CONFIT CHICKEN",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Garam bumbu untuk confit ayam",
+    "ingredients": [
+        "500 gr Sea Salt (local)",
+        "1 pcs Orange Zest",
+        "1 pcs Lemon Zest",
+        "20 pcs Thyme",
+        "5 gr Blackpepper corn"
+    ],
+    "steps": [
+        "Campur semua bahan dan tempatkan pada kontainer kosong yang bersih."
+    ]
+},
+{
+    "id": 52,
+    "title": "TOMATO SAUCE FOR SHAKSHUKA",
+    "time": "30 menit",
+    "difficulty": "Mudah",
+    "description": "Saus tomat untuk shakshuka",
+    "ingredients": [
+        "1000 gr Tomato Sauce (regular tomato sauce)",
+        "450 gr Red Pepper (grill, kupas, potong dadu kecil)",
+        "20 gr Garlic (chopped)",
+        "200 gr Red Onion (chopped)",
+        "1,5 tsp Cumin Powder",
+        "3 tsp Smoked Paprika Powder",
+        "100 ml Olive Oil",
+        "Seasoning"
+    ],
+    "steps": [
+        "Saute onion hingga harum dan agak kecoklatan, masukan garlic, masak hingga harum.",
+        "Lalu masukan cumin dan paprika powder.",
+        "Lalu masukan Tomato Sauce, masak hingga mendidih, lalu kecilkan api.",
+        "Masukan Red Pepper yg sudah dipotong potong.",
+        "Cek rasanya."
+    ]
+},
+{
+    "id": 53,
+    "title": "BARBEQUE SAUCE",
+    "time": "45 menit",
+    "difficulty": "Sedang",
+    "description": "Saus barbekyu yang kaya dan smoky",
+    "ingredients": [
+        "1 gln Tomato Ketchup",
+        "750 ml Honey",
+        "300 gr Palm Sugar",
+        "1 bit A1 Sauce",
+        "1 bit HP Sauce",
+        "50 ml L&P Sauce",
+        "100 ml Kikkoman Soy Sauce",
+        "125 ml Red Wine Vinegar",
+        "250 gr Onion (rajang halus)",
+        "80 gr Ginger (rajang halus)",
+        "110 gr Garlic (rajang halus)",
+        "1 sdm Blackpepper",
+        "2 sdm Sea Salt 1 tsp Chili Flakes"
+    ],
+    "steps": [
+        "Panaskan salad oil pada sauce pot, lalu masukan onion dan ginger, setelah onion matang (caramelized) masukan garlic, masak sampai garlic harum.",
+        "Lalu masukan black pepper dan chili flakes, masak sebentar lalu masukan semua bahan.",
+        "Masak hingga sauce kental dan berwarna merah kecoklatan."
+    ]
+},
+{
+    "id": 54,
+    "title": "SWEET POTATO HUMMUS",
+    "time": "1 jam",
+    "difficulty": "Mudah",
+    "description": "Hummus ubi jalar yang manis dan gurih",
+    "ingredients": [
+        "500 gr Sweet Potato (kuning)",
+        "5 pcs Garlic Confit",
+        "3 tbs Tahini",
+        "1/2 pcs Lemon Juice",
+        "5 tbs Olive Oil",
+        "1/4 tsp Cumin Powder",
+        "Salt"
+    ],
+    "steps": [
+        "Panaskan oven di suhu 175 °C, panggang Sweet Potato sampai matang, kerok isinya dan tempatkan di Blender.",
+        "Blender dengan tahini, cumin powder, garlic confit, lemon juice, olive oil dan garam.",
+        "Cek rasanya."
+    ]
+},
+{
+    "id": 55,
+    "title": "DUKKAH",
+    "time": "20 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran rempah dan kacang khas Mesir",
+    "ingredients": [
+        "50 gr White Sesame",
+        "25 gr Black Sesame",
+        "50 gr Coriander Seed",
+        "50 gr Cumin Seed",
+        "150 gr Hazelnut",
+        "10 gr Salt"
+    ],
+    "steps": [
+        "Panggang kacang Hazle pada oven dengan suhu 165 °C hingga berwarna kecoklatan, dinginkan lalu proses dengan menggunakan robo coupe.",
+        "Panggang semua biji bijian hingga harum, lalu haluskan, kecuali Sesame seed.",
+        "Campurkan semua bahan lalu tambahkan garam."
+    ]
+},
+{
+    "id": 56,
+    "title": "PICKLE RED ONION",
+    "time": "20 menit + pendinginan",
+    "difficulty": "Mudah",
+    "description": "Acar bawang merah yang segar dan asam",
+    "ingredients": [
+        "3 pcs Red Onion (300 gr)",
+        "100 gr Sugar",
+        "30 gr Salt",
+        "100 ml Rice Vinegar / White Wine Vinegar / Apple Cider",
+        "1 pcs Garlic Clove",
+        "10 pcs Blackpepper Corn",
+        "3 pcs Thyme Sprigs",
+        "1 pcs Hot Chili",
+        "500 ml Drinking Water"
+    ],
+    "steps": [
+        "Kupas Red Onion buang kulitnya, lalu iris memanjang.",
+        "Campurkan sisa bahan pada sauce pan lalu panaskan sampai mendidih.",
+        "Lalu tuang ke Red Onion yang sudah diiris."
+    ]
+},
+{
+    "id": 57,
+    "title": "TANDOORI MASALA BASE",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu dasar untuk ayam tandoori",
+    "ingredients": [
+        "1 kg Chicken Breast",
+        "100 gr Natural Yogurt",
+        "3 tbs Tomato Paste",
+        "2 tbs Garam Masala",
+        "1 tbs Coriander Powder",
+        "1 tbs Paprika Powder",
+        "2 tsp Garlic Powder",
+        "1 tsp Onion Powder",
+        "1 tbs Turmeric (parut halus)",
+        "1 tbs Ginger (parut halus)",
+        "1 tbs Lemon Juice 1",
+        "tbs Chopped Cilantro"
+    ],
+    "steps": [
+        "Blend all ingredients"
+    ]
+},
+{
+    "id": 58,
+    "title": "PICKLED RED CABBAGE",
+    "time": "20 menit",
+    "difficulty": "Mudah",
+    "description": "Acar kubis merah yang renyah",
+    "ingredients": [
+        "1000 gr Red Cabbage",
+        "2 pcs Red Onion",
+        "300 ml Apple Cider / Red Wine Vinegar",
+        "150 gr Sugar",
+        "1 tbs Mustard Seed",
+        "1 sprig Thyme",
+        "500 ml Water"
+    ],
+    "steps": [
+        "Campurkan apple cider, sugar, mustard seed, thyme dan air.",
+        "Masak sampai air mendidih lalu tuangkan pada Cabbage."
+    ]
+},
+{
+    "id": 59,
+    "title": "ONION JAM",
+    "time": "1.5 jam",
+    "difficulty": "Sedang",
+    "description": "Selai bawang yang manis dan karamel",
+    "ingredients": [
+        "2 kg Onion",
+        "100 ml Balsamic Vinegar",
+        "150 gr Brown Sugar",
+        "20 gr Salt",
+        "100 ml Salad Oil",
+        "Thyme"
+    ],
+    "steps": [
+        "Pada stock pot yang lebar, panaskan minyak lalu masukan bawang Bombay yang telah diiris iris.",
+        "Tutup agar uapnya tidak keluar (untuk membantu memasak bawang Bombay lebih cepat).",
+        "Setelah bawang Bombay layu dan mulai terlihat proses karamelisasi, lalu masukan balsamic vinegar, gula dan garam.",
+        "Masak sampai menyerupai tekstur jam."
+    ]
+},
+{
+    "id": 60,
+    "title": "BABA GANOJU",
+    "time": "1 jam",
+    "difficulty": "Sedang",
+    "description": "Dip terong panggang khas Timur Tengah",
+    "ingredients": [
+        "900 gr Eggplant",
+        "60 gr Tahini",
+        "60 ml Lemon Juice",
+        "¼ tsp Cumin Powder",
+        "1 tsp Sea Salt",
+        "3 tbs Parsley Chopped",
+        "150 ml Olive Oil"
+    ],
+    "steps": [
+        "Panaskan oven sampai suhu 170 °C, Tusuk terong dengan menggunakan garpu, lalu panggang di oven sampai terung matang atau lembek.",
+        "Kupas kulitnya, lalu cincang dan campurkan sisa bahannya.",
+        "Cek rasanya."
+    ]
+},
+{
+    "id": 61,
+    "title": "HUMMUS",
+    "time": "12 jam (perendaman) + 1 jam",
+    "difficulty": "Sedang",
+    "description": "Hummus chickpea klasik yang lembut",
+    "ingredients": [
+        "400 gr Chickpeas (yg kering, rendam dengan 1,8 ltr air, 1 malam di Coolroom)",
+        "1 tsp Baking Soda",
+        "3 tbs Tahini",
+        "4 pcs Confit Garlic",
+        "100 ml Olive Oil",
+        "125 ml Cold Water",
+        "1 tsp Cumin 3 tsp",
+        "Lemon Juice"
+    ],
+    "steps": [
+        "Rebus chickpeas dengan air yang ditambahkan baking soda.",
+        "Setelah matang, tiriskan.",
+        "Masukan semua bahan pada robo coupe dan blender sampai lembut.",
+        "Cek rasanya."
+    ]
+},
+{
+    "id": 62,
+    "title": "CHOCOLATE SOIL",
+    "time": "35 menit",
+    "difficulty": "Sedang",
+    "description": "Topping coklat bertekstur seperti tanah",
+    "ingredients": [
+        "125 gr Cashew nut",
+        "75 gr Sakra kembar",
+        "125 gr Icing sugar",
+        "50 gr Cocoa powder",
+        "2,5 gr Sal",
+        "90 gr Melted butter"
+    ],
+    "steps": [
+        "Oven cashew nut whole dengan suhu 170°C selama 15 menit, setelah itu diblender halus.",
+        "Aduk semua bahan menjadi satu didalam bowl kecuali melted butter.",
+        "Setelah tercampur rata masukan melted butter sambil diaduk dengan hand mixer sampai mendapatkan butiran butiran yang bagus dan mengikat semua bahan.",
+        "Masukan kedalam baking try yang sudah dialasi dengan baking paper, kemudian oven dengan suhu 180°C selama 15 menit."
+    ]
+},
+{
+    "id": 63,
+    "title": "CUCUMBER PICKLE",
+    "time": "2.5 jam + marinasi 1 hari",
+    "difficulty": "Mudah",
+    "description": "Acar mentimun Jepang yang renyah",
+    "ingredients": [
+        "Japanese Cucumber 1 kg",
+        "Castor sugar 75 gr",
+        "vinegar dixi 25 gr",
+        "black pepper whole ½ tbsp",
+        "Clove 5 pcs",
+        "salt 5 gr"
+    ],
+    "steps": [
+        "Slice cucumber dengan Japanese mandolin, jangan terlalu tipis dan jangan terlalu tebal.",
+        "Kemudian campurkan cucumber yang di slice dengan garam, diamkan selama 2 jam hingga garam larut, cucumber menjadi layu dan mengeluarkan air.",
+        "Setelah itu campur terpisah castor sugar, vinegar, black pepper whole, clove menjadi satu, diamkan sampai gula larut.",
+        "Kemudian campurkan cucumber kedalamnya dan di aduk merata, dan diamkan di kulkas selama 1 hari."
+    ]
+},
+{
+    "id": 64,
+    "title": "TUILE CRISPY",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Tuile renyah untuk garnish",
+    "ingredients": [
+        "100 gr salad oil",
+        "300 gr water",
+        "30 gr flour"
+    ],
+    "steps": [
+        "Campurkan semua bahan dan aduk menjadi satu.",
+        "Tempatkan pada squeeze bottle dan simpan pada chiller."
+    ]
+},
+{
+    "id": 65,
+    "title": "LEMON CAPER GARLIC BUTTER",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Butter bawang putih dengan caper dan lemon",
+    "ingredients": [
+        "250 gr Butter",
+        "50 gr Caper chopped kasar",
+        "25 gr Garlic",
+        "15 ml Lemon Juice",
+        "2 tbs Chopped Flat Parsley",
+        "Salt Pepper"
+    ],
+    "steps": [
+        "Panaskan butter hingga cair, lalu masukan garlic, masak hingga garlic harum (jangan sampai kecoklatan, cukup hingga layu saja).",
+        "Setelah itu masukan capers, masak sebentar lalu masukan lemon juice, parsley dan bumbu dengan garam merica."
+    ]
+},
+{
+    "id": 66,
+    "title": "MUNG BEAN HUMMUS",
+    "time": "12 jam (perendaman) + 45 menit",
+    "difficulty": "Sedang",
+    "description": "Hummus dari kacang hijau dan bit",
+    "ingredients": [
+        "400 gr Mung Bean / Kacang Hijau (matang)",
+        "20 gr Tahini",
+        "15 gr Confit Garlic",
+        "100 ml Olive Oil",
+        "75 gr Roasted Beetroot",
+        "2 gr Cumin Powder",
+        "1 tsp Salt",
+        "80 gr Air Tirisan Kacang Hijau"
+    ],
+    "steps": [
+        "Rendam kacang hijau semalaman di dalam chiller, besoknya rebus sampai lembut, lalu tiriskan airnya.",
+        "Simpan air tirisannya.",
+        "Blender semua bahan sampai halus, lalu masukan air tirisan kacang hijau sesuai dengan konsistensi yang diinginkan.",
+        "Cek kembali rasanya."
+    ]
+},
+{
+    "id": 67,
+    "title": "HOLLANDAISE 2025",
+    "time": "45 menit",
+    "difficulty": "Sedang",
+    "description": "Saus hollandaise modern dengan teknik sous vide",
+    "ingredients": [
+        "Reduction:",
+        "20 gr White Wine Vinegar (bukan cuka DIXI ya Mas Mbak)",
+        "20 gr White Wine",
+        "15 gr Shallot Fine Slice (iris tipis ya Mbak Mas)",
+        "¼ tsp Black Peppercorn Whole",
+        "250 gr Clarified Butter",
+        "5 pcs Egg Yolk",
+        "60 gr Water",
+        "20 gr Lemon Juice",
+        "4 gr Salt",
+        "Reduction Liquid"
+    ],
+    "steps": [
+        "Reduce semua bahan sampai ¼ bagian, lalu saring.",
+        "Campur semua bahan dengan menggunakan balloon whisk sampai semua tercampur dengan rata, lalu vacuum, lalu sous vide dengan suhu 75 C selama 30 menit.",
+        "Setelah di Sous Vide blender sampai tercampur rata, lalu tempatkan pada container dan wrap tempel pada permukaan hollandaise, dinginkan."
+    ]
+},
+{
+    "id": 68,
+    "title": "PONZU DRESSING",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus ponzu Jepang yang segar",
+    "ingredients": [
+        "60 gr Kikkoman Soy Sauce",
+        "60 gr Mizkan",
+        "30 gr Mirin",
+        "10 gr Sesame Oil",
+        "20 gr Maple Syrup",
+        "5 gr Sesame Seed"
+    ],
+    "steps": [
+        "Campur semua bahan pada bowl stainless "
+  ]
+},
+{
+    "id": 69,
+    "title": "NASHVILLE DIPPING",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus celup ala Nashville pedas",
+    "ingredients": [
+        "125 ml Salad Oil",
+        "10 gr Brown Sugar",
+        "10 gr Paprika Powder",
+        "10 gr Smoke Paprika Powder",
+        "5 gr Chili Powder",
+        "5 gr Garlic Powder",
+        "5 gr Onion Powder",
+        "5 gr Garam"
+    ],
+    "steps": [
+        "Tempatkan semua bahan pada bowl stainless yang bersih kecuali minyak dan aduk rata hingga tercampur dengan baik.",
+        "Panaskan minyak sampai suhu 140°C lalu tuangkan pada bowl stainless yang berisi bahan yang kering, lalu aduk aduk hingga tercampur rata dan dinginkan."
+    ]
+},
+{
+    "id": 70,
+    "title": "SMOKED CHILI AIOLI",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus aioli dengan rasa cabai smoky",
+    "ingredients": [
+        "400 gr Mayonnaise",
+        "160 gr Chili Sauce",
+        "30 gr Smoke Paprika Powder",
+        "5 gr Chili Powder",
+        "30 gr Lemon Juice",
+        "10 gr Salt"
+    ],
+    "steps": [
+        "Campur semua bahan pada bowl stainless yang bersih, lalu periksa kembali rasanya"
+    ]
+},
+
+  {
+    "id": 70,
+    "title": "SMOKED CHILI AIOLI",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus aioli dengan rasa cabai smoky",
+    "ingredients": [
+      "400 gr Mayonnaise",
+      "160 gr Chili Sauce",
+      "30 gr Smoke Paprika Powder",
+      "5 gr Chili Powder",
+      "30 gr Lemon Juice",
+      "10 gr Salt"
+    ],
+    "steps": [
+      "Campur semua bahan pada bowl stainless yang bersih, lalu periksa kembali rasanya"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "COCONUT CUCUMBER RAITA",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Raita mentimun dengan yogurt kelapa buatan sendiri",
+    "ingredients": [
+      "250 gr House Made Coconut Yogurt",
+      "150 gr Cucumber (buang bijinya, lalu diparut, peras airnya)",
+      "10 gr Spring Onion",
+      "¼ tsp Cumin Powder",
+      "¼ tsp Coriander Powder",
+      "1 tsp Salt"
+    ],
+    "steps": [
+      "Campur semua bahan pada bowl stainless yang bersih, periksa kembali rasanya."
+    ]
+  },
+  {
+    "id": 72,
+    "title": "PANCAKE",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Resep pancake dasar",
+    "ingredients": [
+      "300 gr Milk",
+      "2 pcs Egg",
+      "300 gr Flour",
+      "62 gr Sugar",
+      "1 tsp Salt",
+      "¼ tsp Baking Soda",
+      "1 tbs Baking Powder",
+      "30 gr Melted Butter"
+    ],
+    "steps": [
+      "Pada bowl yang bersih, masukan tepung yang disaring, sugar, baking soda, baking powder dan salt, lalu campur rata menggunakan balloon whisk.",
+      "Pada bowl terpisah campur susu dan telor."
+    ]
+  },
+  {
+    "id": 73,
+    "title": "PESTO",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus pesto klasik",
+    "ingredients": [
+      "400 gr Basil",
+      "15 gr Garlic",
+      "75 gr Cashew Nut",
+      "120 gr Olive Oil",
+      "3 gr Salt",
+      "1 gr Blackpepper"
+    ],
+    "steps": [
+      "Tempat bahan pada blender, lalu blender hingga bahan halus semua.",
+      "Periksa kembali rasanya."
+    ]
+  },
+  {
+    "id": 74,
+    "title": "GOCHUJANG AIOLI",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus aioli dengan pasta cabai Gochujang",
+    "ingredients": [
+      "500 gr Mayonnaise",
+      "150 gr Gochujang",
+      "25 gr Gochugaru",
+      "50 gr Soy Sauce Kikkoman"
+    ],
+    "steps": [
+      "Tempatkan bahan pada bowl stainless yang kering dan bersih, lalu campur semua bahan dengan rata."
+    ]
+  },
+  {
+    "id": 75,
+    "title": "BLACK VINEGAR",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus cuka hitam manis pedas",
+    "ingredients": [
+      "100 ml Black Vinegar",
+      "200 ml Sweet Soy Sauce",
+      "100 ml Soy Sauce",
+      "100 ml Oyster Sauce",
+      "100 ml Chili Oil",
+      "100 gr Brown Sugar"
+    ],
+    "steps": [
+      "Campurkan semua bahan Dalam sauce pan, lalu panaskan hingga brown sugar larut.",
+      "Dinginkan dan tempatkan pada squeeze bottle."
+    ]
+  },
+  {
+    "id": 76,
+    "title": "CHILI OIL",
+    "time": "1 hari (infuse)",
+    "difficulty": "Sedang",
+    "description": "Minyak cabai aromatik",
+    "ingredients": [
+      "500 ml Salad Oil",
+      "65 gr Gochugaru",
+      "35 gr Sesame Seed",
+      "10 pcs Dry Big Red Chili",
+      "1 tbs Chili Powder",
+      "35 gr Garlic (iris iris)",
+      "20 gr Gingger (iris iris)",
+      "50 gr Spring Onion",
+      "1 tbs Five Spice",
+      "3 cm Cinnamon Stick",
+      "1 tbs Salt"
+    ],
+    "steps": [
+      "Selain minyak, campur semua bahan pada bowl stainless yang bersih dan kering.",
+      "Pada sauce pan panaskan minyak sampai suhu 165°C.",
+      "Lalu tuangkan pada bahan kering tadi, lalu dinginkan dan infuse selama 1 hari.",
+      "Lalu saring."
+    ]
+  },
+  {
+    "id": 77,
+    "title": "CAFÉ DE PARIS BUTTER",
+    "time": "30 menit + pendinginan",
+    "difficulty": "Sedang",
+    "description": "Mentega aromatik dengan rempah-rempah dan bumbu",
+    "ingredients": [
+      "200 gr Butter",
+      "40 gr Shallot (brunoise)",
+      "5 gr Garlic (brunoise)",
+      "1 tbs Dijon Mustard",
+      "1 tsp Curry Powder",
+      "½ tsp Paprika Powder",
+      "5 gr Parsley",
+      "5 gr Tarragon",
+      "2 tsp Salt",
+      "1 tbs L&P"
+    ],
+    "steps": [
+      "Tempatkan butter pada suhu ruangan, diamkan hingga lembek.",
+      "Pada saute pan masak shallot dan garlic, hingga matang, tidak kecoklatan.",
+      "Lalu dinginkan, sesudah dinginkan campurkan semua bahan pada butter hingga tercampur rata.",
+      "Lalu roll dengan menggunakan plastik wrap hingga membentuk silinder.",
+      "Lalu dinginkan kembali, lalu potong potong dengan berat sesuai yang diinginkan."
+    ]
+  },
+  {
+    "id": 78,
+    "title": "TURNIP / DAIKON PICKLE",
+    "time": "24 jam (pendinginan)",
+    "difficulty": "Mudah",
+    "description": "Acar lobak atau daikon",
+    "ingredients": [
+      "500 gr Turnip",
+      "160 ml White Vinegar",
+      "400 ml Water",
+      "135 gr Sugar",
+      "5 pcs Staranisse",
+      "1 tsp Black Peppercorn",
+      "¼ tsp Turmeric Powder"
+    ],
+    "steps": [
+      "Kupas dan potong daikon sesuai keinginan dan berikan garam agar layu, cuci bersih dan tiriskan.",
+      "Lalu panaskan air, gula, staranisse dan blackpepper corn pada sauce pan.",
+      "Setelah gula larut, singkirkan dari api lalu masukan turmeric powder.",
+      "Lalu siram ke turnip, dinginkan.",
+      "Simpan didalam lemari pendingin selama 24 jam, sebelum digunakan."
+    ]
+  },
+  {
+    "id": 79,
+    "title": "PICKLE CARROT",
+    "time": "24 jam (pendinginan)",
+    "difficulty": "Mudah",
+    "description": "Acar wortel",
+    "ingredients": [
+      "300 gr Carrot",
+      "100 gr Sugar",
+      "30 gr Salt",
+      "100 ml Rice Vinegar",
+      "1 pcs Garlic (iris iris)",
+      "10 pcs Black Peppercorn",
+      "3 pcs Thyme Sprigs",
+      "1 pcs Hot Chili",
+      "500 ml Water"
+    ],
+    "steps": [
+      "Kupas carrot lalu potong sesuai keinginan dan tambahkan garam agar layu, lalu cuci bersih, tiriskan.",
+      "Pada sauce pan campurkan sisa bahan lalu panaskan, hingga gula larut.",
+      "Lalu siramkan pada carrot.",
+      "Dinginkan, lalu simpan didalam lemari pendingin selama 24 jam, sebelum digunakan."
+    ]
+  },
+  {
+    "id": 80,
+    "title": "BASIL OIL",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Minyak basil aromatik",
+    "ingredients": [
+      "120 gr fresh basil leaf",
+      "75 gr olive oil",
+      "75 gr salad oil",
+      "Salt"
+    ],
+    "steps": [
+      "Panaskan minyak (hanya warm saja).",
+      "Blender basil dengan minyak.",
+      "Kemudian pindahkan ke sauce pot dan panaskan kembali (5 menit).",
+      "Saring dengan kain saringan hanging dengan piping bag."
+    ]
+  },
+  {
+    "id": 81,
+    "title": "RICE REJUVELAC / RICE WATER",
+    "time": "24 jam (fermentasi)",
+    "difficulty": "Mudah",
+    "description": "Air beras fermentasi",
+    "ingredients": [
+      "100gr Rice",
+      "300ml Water (Cleo)"
+    ],
+    "steps": [
+      "Pada jar kaca yang sudah disanitasi dengan air panas, tempatkan beras dan air, lalu fermentasi selama 1 hari atau 24 jam pada suhu ruangan.",
+      "Setelah 24 jam, saring dan tempatkan rice water pada lemari pendingin."
+    ]
+  },
+  {
+    "id": 82,
+    "title": "HOUSE MADE COCONUT YOGURT",
+    "time": "1 hari (fermentasi)",
+    "difficulty": "Mudah",
+    "description": "Yogurt kelapa buatan sendiri",
+    "ingredients": [
+      "1000 gr ml coconut milk",
+      "100 gr rice water"
+    ],
+    "steps": [
+      "Campurkan semua bahan aduk rata lalu masukan dalam toples kaca, diamkan selama sehari taruh dalam tempat tertutup dan gelap."
+    ]
+  },
+  {
+    "id": 83,
+    "title": "KOREAN CHICKEN BURGER MARINATION",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Marinasi untuk burger ayam Korea",
+    "ingredients": [
+      "1 kg Chicken leg",
+      "15 gr Ghungroo",
+      "25 gr Ginger Fresh",
+      "50 ml kikkoman Sauce",
+      "30 ml Sesame Oil"
+    ],
+    "steps": [
+      "Campurkan semua Bahan."
+    ]
+  },
+  {
+    "id": 84,
+    "title": "SAUCE KOREAN CHICKEN BURGER",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus untuk burger ayam Korea",
+    "ingredients": [
+      "360 gr Dark brown sugar + 50 ml fish sauce",
+      "130 gr Gochujang (pasta cabai korea)",
+      "120 gr soy sauce",
+      "30 gr Garlic (parut)",
+      "40 gr Ginger (parut)",
+      "2 tbs sesame oil"
+    ],
+    "steps": [
+      "Campur Semua Bahan pada sauce pot.",
+      "Masak hingga gula larut."
+    ]
+  },
+  {
+    "id": 85,
+    "title": "BUMBU GULAI",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Bumbu dasar untuk gulai",
+    "ingredients": [
+      "20gr jahe",
+      "35gr Kunyit Bakar",
+      "100gr Bawang Merah",
+      "55gr Bawang Putih",
+      "75gr Cabai Merah (tanpa biji)",
+      "500ml Santan Kara",
+      "200ml Chicken Stock",
+      "5pcs Daun Jeruk",
+      "2pcs Daun Salam",
+      "1pcs Sereh (memarkan)",
+      "10gr lengkuas (memarkan)",
+      "3pcs Kemiri",
+      "3cm Kayu Manis",
+      "3gr gulai spice"
+    ],
+    "steps": [
+      "Slice jahe, kunyit, bawang merah, bawang putih, cabai merah, kemiri lalu tumis sampai layu dan diblender halus.",
+      "Lalu masak kembali sampai bumbu matang dan masukan gulai spice.",
+      "Lalu masukan santan, chicken stock, lengkuas, sereh, kayu manis didihkan dan simmer.",
+      "Tambahkan seasoning, cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 86,
+    "title": "GULAI SPICE",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran rempah untuk gulai",
+    "ingredients": [
+      "15gr ketumbar",
+      "6gr Cumin",
+      "5gr Merica Hitam Utuh",
+      "3gr Pala (Nutmeg)",
+      "4gr Kapulaga (Cardamom)",
+      "4pcs Cengkeh",
+      "1pcs Bunga Lawang"
+    ],
+    "steps": [
+      "Toast Ketumbar, cumin, Merica, Kapulaga, Cengkeh, Bunga Lawang Lalu di haluskan."
+    ]
+  },
+  {
+    "id": 87,
+    "title": "BALADO PASTE",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta balado pedas",
+    "ingredients": [
+      "100 gr Red Big Chili",
+      "75 gr Shallot",
+      "35 gr Garlic",
+      "15 gr Ginger",
+      "15 gr Candlenut",
+      "40 gr Lemongrass"
+    ],
+    "steps": [
+      "Slice semua bahaan lalu tumis sampai layu kecuali lemongrass dan diblender sampai halus.",
+      "Masak kembali dengan lemongrass yang digeprek, masak sampai matang dan harum."
+    ]
+  },
+  {
+    "id": 88,
+    "title": "CURRY PASTE / BUMBU KARE",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta bumbu kari",
+    "ingredients": [
+      "100 gr shallot",
+      "40 gr Garlic",
+      "25 gr turmeric (bakar)",
+      "10 gr Ginger",
+      "80 gr Red Chili (no seed)",
+      "30 gr Candlenut",
+      "10 gr Coriander Powder",
+      "1 gr Cumin Powder"
+    ],
+    "steps": [
+      "Slice Garlic, shallot, turmeric, Ginger, Red chili, candlenut and sauteed sampai layu dan matang lalu diblender Halus.",
+      "Dan di masak kembali lalu masukan coriander powder dan cumin powder."
+    ]
+  },
+  {
+    "id": 89,
+    "title": "CURRY SAUCE",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus kari instan",
+    "ingredients": [
+      "200 gr santan kara",
+      "75 gr Curry paste",
+      "Garam, gula, kenor"
+    ],
+    "steps": [
+      "Campurkan semua bahaan lalu panaska di sauce pan dan cek rasanya."
+    ]
+  },
+  {
+    "id": 90,
+    "title": "MARINATED OLIVE",
+    "time": "20 menit (oven)",
+    "difficulty": "Mudah",
+    "description": "Zaitun yang dimarinasi dengan rempah",
+    "ingredients": [
+      "700 gr Black olive",
+      "700 gr Green olive",
+      "3 tsp Dried chili (slice)",
+      "3 pcs Garlic (iris tipis)",
+      "150 ml olive oil",
+      "100 ml Red wine Vinegar",
+      "1 tsp Black Pepper",
+      "4 pcs Lemongrass",
+      "½ pcs Lemon peel"
+    ],
+    "steps": [
+      "Campurkan semua Bahan Kemudian Oven Dengan Suhu 110°C 20 Menit."
+    ]
+  },
+  {
+    "id": 91,
+    "title": "RENDANG PASTE",
+    "time": "45-60 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta bumbu rendang",
+    "ingredients": [
+      "1 kg Shallot",
+      "750 gr Garlic",
+      "100 gr Dried Red Chili (tanpa biji)",
+      "2,5 kg Fresh Red Big Chili",
+      "300 gr Galangal",
+      "200 gr Ginger",
+      "80 gr Turmeric (jangan menggunakan Rimpang Utama)",
+      "100 gr Candlenut",
+      "10 tbs Coriander Seed",
+      "3 pcs Nutmeg",
+      "1 ltr Salad oil"
+    ],
+    "steps": [
+      "Pada Sauce Pot, Panaskan Minyak Lalu Masukan Bawang Merah Dan Bawang putih, masak sampai harum.",
+      "Lalu masukan lengkuas, Jahe dan bahan lainnya Dan masak sampai layu.",
+      "Setelah itu semua bahan diblender halus dan panaskan kembali sampai minyaknya keluar."
+    ]
+  },
+  {
+    "id": 92,
+    "title": "BEEF RENDANG",
+    "time": "1.5-2 jam",
+    "difficulty": "Sulit",
+    "description": "Rendang daging sapi",
+    "ingredients": [
+      "600gr Rendang Paste",
+      "2pcs Daun Salam",
+      "6pcs Kaffir Lime Leaves",
+      "2pcs Lemongrass",
+      "20gr Salt",
+      "25gr Knorr",
+      "18gr Totole",
+      "6pcs Cardamon",
+      "2pcs Cinnamon Stick",
+      "2pcs Star Anise",
+      "80gr Palm Sugar",
+      "2,5kg Beef Blade/Chuck Tender",
+      "500ml Coconut milk",
+      "150gr Roasted Coconut"
+    ],
+    "steps": [
+      "Campur semua bahan dalam sauce pot.",
+      "Toasted dried Coconut Sampai brown Dan harum Lalu diblender hingga halus.",
+      "Campurkan pada semua bahan yang di sauce pot kecuali roasted coconut dan masak sampai setengah matang.",
+      "Lalu masukan roasted coconut, masak hingga beef lembut dan cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 93,
+    "title": "KOREAN KIMCHI / VIET SLAW",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Salad kubis ala Korea atau Vietnam",
+    "ingredients": [
+      "1000gr Chinese Cabbage",
+      "200gr Red Cabbage",
+      "150gr Carrot",
+      "40gr Red Chili (no seed)"
+    ],
+    "steps": [
+      "Iris tipis semua bahan, lalu campur dengan rata, rendam dengan air es, lalu tiriskan."
+    ]
+  },
+  {
+    "id": 94,
+    "title": "KIMCHI SLAW DRESSING",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing untuk kimchi slaw",
+    "ingredients": [
+      "100 ml soy sauce",
+      "100 ml lemon juice",
+      "1 tbs paprika powder",
+      "10 gr ginger (kupas, iris tipis)",
+      "30 gr garlic",
+      "200 ml air es"
+    ],
+    "steps": [
+      "Blender semua bahan."
+    ]
+  },
+  {
+    "id": 95,
+    "title": "WOKU SAUCE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Saus woku khas Manado",
+    "ingredients": [
+      "50 gr cabe merah besar (tanpa biji)",
+      "10 gr kemiri",
+      "80 gr bawang merah",
+      "45 gr bawang putih",
+      "20 gr jahe",
+      "15 gr kunyit",
+      "80 ml salad oil",
+      "200 ml santan kara",
+      "3 pcs daun jeruk",
+      "10 cm daun pandan",
+      "1 pcs sreh/lemongrass (geprek)",
+      "150 gr Butter",
+      "7 gr garam",
+      "10 gr kenorr"
+    ],
+    "steps": [
+      "Slice Kasar semua bahan lalu tumis dengan salad oil hingga harum dan matang, dan di blender hingga halus.",
+      "Masak kembali masukan daun pandan, jeruk, sereh, hingga matang dan cek rasannya."
+    ]
+  },
+  {
+    "id": 96,
+    "title": "BUMBU TALIWANG",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Bumbu dasar untuk ayam Taliwang",
+    "ingredients": [
+      "300 gr Cabe merah besar (tanpa Biji)",
+      "120 gr Bawang merah",
+      "100 gr Bawang putih",
+      "8 gr Terasi bakar",
+      "5 gr Kencur",
+      "20 gr Kemiri (sangria)",
+      "30 gr Dried coconut",
+      "100 ml Santan kara",
+      "50 gr Gula merah"
+    ],
+    "steps": [
+      "Slice/potong cabe merah, bawang putih, bawang merah, kemiri, kencur lalu di tumis hingga matang dan diblender halus bersama dengan terasi.",
+      "Masak kembali masukan santan, gula merah dan kelapa yg sudah di sangria dan di haluskan.",
+      "Tambahkan garam dan kenor cek rasanya."
+    ]
+  },
+  {
+    "id": 97,
+    "title": "TALIWANG BUTTER",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Mentega dengan bumbu Taliwang",
+    "ingredients": [
+      "100 gr butter",
+      "50 gr bumbu taliwang",
+      "10 gr garam"
+    ],
+    "steps": [
+      "Campurkan semua bahan dan diaduk rata."
+    ]
+  },
+  {
+    "id": 98,
+    "title": "MEXICAN BEAN",
+    "time": "1.5-2 jam (termasuk perendaman)",
+    "difficulty": "Sedang",
+    "description": "Campuran kacang-kacangan ala Meksiko",
+    "ingredients": [
+      "400 gr onion",
+      "40 gr garlic",
+      "100 ml salad oil",
+      "2 kg Black Turtle bean (rendam 24 jam dan rebus hingga empuk)",
+      "700 gr Chickpeas (rendam 24 jam dan rebus sampai matang)",
+      "700 gr Cannellini Bean (rendam 24 jam rebus sampai matang)",
+      "600 gr Napolitana sauce",
+      "500 g Tomato Paste",
+      "20 gr Mexican spice",
+      "1 gr chili flakes",
+      "30 gr sugar",
+      "5 gr Black Pepper",
+      "2 ltr air Cleo",
+      "50 gr salt",
+      "100 gr Cilantro"
+    ],
+    "steps": [
+      "Dice Onion dan chop Garlic sauteed dengan salad oil.",
+      "Lalu masukan tomato paste, masak hinga tomato matang.",
+      "Lalu masukan napolitana sauce, black bean, chickpeas, Cannellini Bean.",
+      "Lalu masukkan air Chili Flakes, Mexican spice, black pepper dan garam.",
+      "Lalu masak hingga airnya berkurang dn mengental.",
+      "Setelah matang masukan cilantro aduk rata dan dinginkan."
+    ]
+  },
+  {
+    "id": 99,
+    "title": "MEXICAN SPICE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran rempah ala Meksiko",
+    "ingredients": [
+      "10 gr chili powder",
+      "10 gr Paprika powder",
+      "10 gr onion powder",
+      "6 gr garlic powder",
+      "1 gr chili plake",
+      "1 gr dried oregano"
+    ],
+    "steps": [
+      "Campurkan semua bahan dalam bowl stainless yang bersih dan kering, lalu tempatkan pada container kedap udara."
+    ]
+  },
+  {
+    "id": 100,
+    "title": "SMOKED CHILI AIOLI",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus aioli dengan rasa cabai smoky",
+    "ingredients": [
+      "400 gr Mayonnaise",
+      "160 gr Chili sauce ABC",
+      "30 gr Smoked Paprika powder",
+      "5 gr chili powder",
+      "30 gr lemon Juice",
+      "5 gr salt"
+    ],
+    "steps": [
+      "Campurkan semua bahan dalam bowl stainless lalu di campur rata dan cek rasanya."
+    ]
+  },
+  {
+    "id": 101,
+    "title": "MUSTARD AIOLI",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus aioli dengan mustard",
+    "ingredients": [
+      "3 pcs egg yolk",
+      "600 gr mayonnaise",
+      "55 gr Dijon Mustard",
+      "40 gr Whole Grain Mustard",
+      "5 gr salt",
+      "4 tbs Lemon Juice"
+    ],
+    "steps": [
+      "Campurkan semua Bahan dalam bowl stainless dan aduk sampai merata dan cek rasnya."
+    ]
+  },
+  {
+    "id": 102,
+    "title": "SAMBAL HIJAU",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Sambal cabai hijau",
+    "ingredients": [
+      "1 kg Cabai Hijau",
+      "60 gr Garlic",
+      "20 gr garam",
+      "20 gr kennor",
+      "260 ml minyak goreng"
+    ],
+    "steps": [
+      "Rebus Cabai hijau dan bawang putih sampai matang.",
+      "Lalu cincang kasar dan di masak kembali dengan minyak dan masukan garam dan kenor."
+    ]
+  },
+  {
+    "id": 103,
+    "title": "OCTOPUS",
+    "time": "1 jam (perendaman)",
+    "difficulty": "Sedang",
+    "description": "Persiapan gurita",
+    "ingredients": [
+      "1kg Octopus",
+      "8% Salt dari berat Octopus"
+    ],
+    "steps": [
+      "Potong kepala octopus, lalu potong tentakelnya menjadi 4 pasang tentakel.",
+      "Dengan garam yang sudah ditimbang gosok octopus sambil memijatnya hingga lendirnya hilang.",
+      "Lalu cuci bersih octopus, sampai garamnya hilang, lalu rendam dengan air bersih selama 1 jam.",
+      "Setelah itu braised octopus."
+    ]
+  },
+  {
+    "id": 104,
+    "title": "BRAISED LIQUID OCTOPUS",
+    "time": "1.5-2 jam (braising)",
+    "difficulty": "Sulit",
+    "description": "Cairan untuk merebus gurita",
+    "ingredients": [
+      "3kg Octopus",
+      "4ltr Water",
+      "1pcs Carrot (dice)",
+      "1pcs Onion (dice)",
+      "4pcs Leek",
+      "3pcs Garlic",
+      "5sprig Thyme",
+      "1tbs Blackpeppercorn",
+      "2pcs Staranisse",
+      "300ml Red Wine"
+    ],
+    "steps": [
+      "Panaskan stock pot, lalu sautee carrot, onion, leek dan garlic, masukan thyme, blackpeppercorn dan staranisse.",
+      "Masukan air dan red wine.",
+      "Bumbuin dengan garam.",
+      "Bersihkan Octopus, lalu potong potong tentacle menjadi single tentacle.",
+      "Lalu bubuhi dengan garam, pijat pijat tentacle, lalu resting 30 menit di coolroom.",
+      "Lalu masak di braising liquidnya.",
+      "Masak sampai lembut (tidak overcook) sekitar 1,5 – 2 jam."
+    ]
+  },
+  {
+    "id": 105,
+    "title": "SCRAMBLE TOFU",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Tahu orak-arik",
+    "ingredients": [
+      "400 gr tofu",
+      "50 gr onion",
+      "8 gr garlic",
+      "100 gr air cleo",
+      "50 gr coconut milk",
+      "2 gr turmeric",
+      "100 gr masala base"
+    ],
+    "steps": [
+      "Sauteed onion dan garlic sampai harum.",
+      "Lalu masukan tofu, santan dan air cleo.",
+      "Lalu masukan turmeric powder dan masala base.",
+      "Masak hingga menyerupai scramble cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 106,
+    "title": "GINGER GLAZED",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Glasir jahe",
+    "ingredients": [
+      "40gr garlic (fine chop)",
+      "40gr shallot (fine chop)",
+      "80gr ginger (fine chop)",
+      "400gr brown sugar",
+      "120ml rice vinegar",
+      "400ml mineral water",
+      "3tsp salt",
+      "4tsp chili sauce",
+      "8tsp fish sauce"
+    ],
+    "steps": [
+      "Tumis garlic, shallot, dan ginger hingga harum.",
+      "Lalu masukan air dan semua bahan dan masak kembali dengan api kecil hingga mengental."
+    ]
+  },
+  {
+    "id": 107,
+    "title": "PICKLE CUCUMBER",
+    "time": "15 menit + pendinginan",
+    "difficulty": "Mudah",
+    "description": "Acar mentimun",
+    "ingredients": [
+      "200 ml water",
+      "200 ml vinegar",
+      "100 gr sugar",
+      "1000 gr cucumber",
+      "½ tsp turmeric powder"
+    ],
+    "steps": [
+      "Panaskan air, vinegar sugar, dan turmeric powder.",
+      "Lalu slice cucumber dengan mandolin dan masukan ke dalam bowl stainless dan seduh denga air yang sudah di panaskan dan tutup menggunakan plastic wrap."
+    ]
+  },
+  {
+    "id": 108,
+    "title": "RED WINE SAUCE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Saus anggur merah",
+    "ingredients": [
+      "2,6 ltr Brown stock",
+      "78 gr Demi Glace powder",
+      "600 ml Red wine"
+    ],
+    "steps": [
+      "Panaskan red wine hingga reduct.",
+      "Lalu masukan brown stock dan larutan demglaze dengan brown stock lalu masukan kembali masak sampai mengental."
+    ]
+  },
+  {
+    "id": 109,
+    "title": "BUMBU OPOR",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Bumbu dasar untuk opor",
+    "ingredients": [
+      "55 gr Garlic",
+      "150 gr Shallot",
+      "30 gr Ginger",
+      "15 gr Aromatic Ginger/kencur",
+      "6 gr Coriander Seed",
+      "25 gr Candlenut",
+      "5 pcs Kaffir Lime (Daun)",
+      "2 Pcs Lemongrass"
+    ],
+    "steps": [
+      "Toasted Coriander Seed dan dihaluskan.",
+      "Slice Garlic, Shallot, Ginger, Kencur, kemiri dan lemongrass lalu di sauted menggunakan Saucepan selama 10 menit dan dihaluskan menggunakan blender.",
+      "Dan masak kembali lalu masukan daun jeruk, masa sampai mengeluarkan minyak."
+    ]
+  },
+  {
+    "id": 110,
+    "title": "OPOR AYAM CURRY STOCK",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu kari opor ayam",
+    "ingredients": [
+      "230 gr Opor Base",
+      "450 ml Santan Kara",
+      "450 ml Fresh Milk",
+      "15 gr Chicken Powder kenorr",
+      "10 gr Salt"
+    ],
+    "steps": [
+      "Campurkan semua bahaan di dalam saucepan dan masak sampai matang cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 111,
+    "title": "OLAH OLAH PASTE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta bumbu olah-olah",
+    "ingredients": [
+      "130 gr Garlic",
+      "100 gr Shallot",
+      "10 gr Shrimps Paste",
+      "20 gr Galangal",
+      "150 gr Red Big Chili (tanpa biji)",
+      "5 gr Hot Chili"
+    ],
+    "steps": [
+      "Gorenglah Shrimp Paste dengan Sedikit Minyak sambal ditekan menggunakan sendok makan sampai halus.",
+      "Setelah itu slice garlic, shallot, red big chili dan hot chili lalu di sauteed sampai layu lalu di blender sampai halus.",
+      "Dan di masak bersamaan dengan galangal yang di geprek, masak sampai Matang."
+    ]
+  },
+  {
+    "id": 112,
+    "title": "OLAH OLAH CURRY STOCK",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu kari olah-olah",
+    "ingredients": [
+      "342 gr Curry Paste",
+      "500 ml Santan Kara",
+      "10 gr Gula Pasir",
+      "10 gr Garam",
+      "15 gr Chicken Powder Knorr",
+      "10 gr Bawang Goreng"
+    ],
+    "steps": [
+      "Campurkan semua Bahan Dan Masak sampai Matang."
+    ]
+  },
+  {
+    "id": 113,
+    "title": "BUMBU KALASAN PASTE",
+    "time": "45-60 menit",
+    "difficulty": "Sulit",
+    "description": "Pasta bumbu Kalasan",
+    "ingredients": [
+      "300 gr Galangal",
+      "75 gr Ginger",
+      "30 gr Turmeric",
+      "10 gr wild Ginger",
+      "75 gr Lemongrass",
+      "200 gr Shallot",
+      "100 gr Garlic",
+      "15 gr Red Big Chili",
+      "5 gr Hot Chili",
+      "7 gr Coriander Seed",
+      "12 gr Black Pepper",
+      "50 gr Candlenut",
+      "2 gr Daun Salam",
+      "2 gr Daun Jeruk"
+    ],
+    "steps": [
+      "Sautéed Black pepper Dan Coriander Seed Lalu di halus kan.",
+      "Setelah itu Slice Galangal, Ginger, Turmeric, Wild Ginger, Lemongrass, Shallot, Garlic, Red Big Chili, Hot Chili, Candlenut Dan di Sauteed Sampai Layu lalu diblender sampai halus.",
+      "Lalu di masak Kembali Bersama dengan daun salam, daun jeruk, dan Black pepper dan coriander seed yang sudah dihaluskan masak sampai matang dan mengeluarkan minyak."
+    ]
+  },
+  {
+    "id": 114,
+    "title": "KALASAN CURRY STOCK",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu kari Kalasan",
+    "ingredients": [
+      "400 gr Kalsan Paste",
+      "1000 gr Santan Kara",
+      "400 ml Air cleo",
+      "10 gr salt",
+      "15 gr Chicken Powder Knorr",
+      "10 gr Lime Kaffir",
+      "10 gr Daun salam"
+    ],
+    "steps": [
+      "Masukan semua Bahan Di Dalam saucepan Masak sampai matang dan cek rasanya."
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Chicken Woku Marinated",
+    "time": "10 menit + sous vide",
+    "difficulty": "Mudah",
+    "description": "Marinasi ayam woku",
+    "ingredients": [
+      "1 kg Chicken Leg Boneless",
+      "1 tsp Turmeric Powder",
+      "1 tsp Garlic Powder",
+      "2 tsp Onion Powder",
+      "2 tsp Salt",
+      "2 tbs Salad Oil"
+    ],
+    "steps": [
+      "Campurkan semua bahan Dalam Bowl Dan di aduk Rata Lalu masukan ke dalam Plastik Vacum Dan di Souvade."
+    ]
+  },
+  {
+    "id": 116,
+    "title": "CREAMY BROTH",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu krim",
+    "ingredients": [
+      "1500 ml Water",
+      "25 gr Dashi Granule",
+      "5 gr Totole Jamur",
+      "240 ml V soy Original/Fresh Milk"
+    ],
+    "steps": [
+      "Campurkan Air Dan fresh Milk Lalu Panaskan.",
+      "Setelah Mendidihkan Masukkan Dashi Granule Dan Totole Jamur Biar selama 5 menit Lalu dinginkan."
+    ]
+  },
+  {
+    "id": 117,
+    "title": "DAN DAN BASE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu dasar Dan Dan",
+    "ingredients": [
+      "30 gr Miso Paste",
+      "100 ml Soy Sauce",
+      "100 ml Mizkan",
+      "120 gr Tahini",
+      "5 ml Sesame Oil"
+    ],
+    "steps": [
+      "Campurkan semua Bahan."
+    ]
+  },
+  {
+    "id": 118,
+    "title": "DAN DAN BROTH",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu Dan Dan",
+    "ingredients": [
+      "450 ml Creamy Broth",
+      "45 gr Dan dan Base",
+      "40 ml Mirin",
+      "8 gr Totole Jamur",
+      "2 gr Salt"
+    ],
+    "steps": [
+      "Campurkan Semua Bahaan Lalu Masak Sampai Mendidih."
+    ]
+  },
+  {
+    "id": 119,
+    "title": "SPICY MISO BASE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu dasar miso pedas",
+    "ingredients": [
+      "130 gr Miso Paste",
+      "130 gr Gochujang",
+      "60 ml Mirin",
+      "20 gr Ginger",
+      "15 gr Sesame Oil"
+    ],
+    "steps": [
+      "Campurkan semua Bahan Aduk Rata."
+    ]
+  },
+  {
+    "id": 120,
+    "title": "SPICY MISO BROTH",
+    "time": "15 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu miso pedas",
+    "ingredients": [
+      "450 ml Creamy Broth",
+      "40 gr Spicy Miso Base",
+      "8 gr Totole",
+      "2 gr Salt",
+      "2 gr Knorr"
+    ],
+    "steps": [
+      "Campurka Semua Bahan lalu panaskan sampai mendidih lalu cek rasanya."
+    ]
+  },
+    {
+    "id": 121,
+    "title": "TARE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Saus tare untuk hidangan Jepang",
+    "ingredients": [
+      "175 ml Soy Sauce kikkoman",
+      "45 ml mirin",
+      "45 ml sake",
+      "60 gr Misho Shiro"
+    ],
+    "steps": [
+      "Campurkan semua bahan lalu dicampur rata mengunakan balonwisk."
+    ]
+  },
+  {
+    "id": 122,
+    "title": "PORK DAN DAN",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Daging babi cincang untuk Dan Dan",
+    "ingredients": [
+      "1 kg Minced Pork",
+      "250 gr Onion",
+      "30 gr Ginger",
+      "15 gr white Sugar",
+      "10 gr Knorr",
+      "8 gr Maizena",
+      "25 gr Garlic",
+      "30 ml Mirin",
+      "20 gr Miso",
+      "40 gr Gochujang",
+      "400 ml Air Cleo"
+    ],
+    "steps": [
+      "Chopped Onion, Garlic, Ginger lalu masukan Minced pork sauteed sampai matang.",
+      "Dan masukan mirin, miso, Gochujang dan tambahkan air, Gula pasir dan knorr masak selama 10 menit.",
+      "Lalu Masukan Cairan Maizena supaya mengental."
+    ]
+  },
+  {
+    "id": 123,
+    "title": "CHICKPEAS PATTY",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Patty kacang arab",
+    "ingredients": [
+      "400 gr Chickpeas",
+      "300 gr Sweet Corn",
+      "7 gr Curry Powder",
+      "100 gr Wheat Flour",
+      "5 gr Coriander Powder",
+      "10 gr Coriander Stalk",
+      "5 gr Salt",
+      "30 gr Shallot",
+      "140 ml Air Cleo"
+    ],
+    "steps": [
+      "Rebuslah lah chickpeas sampai mendidih saja, lalu angkat, dinginkan, lalu di blender kasar menggunakan chopper.",
+      "Lalu serutlah jagung menggunakan pisau (tipis tipis).",
+      "Lalu campur chickpeas dan seasoning, lalu campur dengan tepung, jagung, aduk rata.",
+      "Lalu masukan air sedikit demi sedikit, cek kembali rasanya.",
+      "Cetak dengan berat 120 gr per porsi."
+    ]
+  },
+  {
+    "id": 124,
+    "title": "BBQ SAUCE LOCAL",
+    "time": "45-60 menit",
+    "difficulty": "Sulit",
+    "description": "Saus BBQ lokal",
+    "ingredients": [
+      "300 gr Red Big Chili",
+      "150 gr Garlic",
+      "250 gr Shallot",
+      "50 gr Candlenut",
+      "30 gr Galangal",
+      "50 gr Shrimp Paste",
+      "100 gr Palm Sugar",
+      "10 gr Dry Red Big Chili",
+      "15 pcs Kaffir Lime Leaves (hilangkan batang tengahnya)",
+      "200 ml Air Cleo atau Narmada",
+      "30 gr Salt",
+      "20 gr Chicken Knorr Seasoning",
+      "15 gr Black Pepper",
+      "30 gr Saos Tiram",
+      "600 gr Minyak Goreng"
+    ],
+    "steps": [
+      "Pada sauce pot, panaskan minyak, lalu masukan Shallot, Garlic, Candlenut dan Galangal masak sampai garlic gak lembut.",
+      "Lalu masukan Dry Big Red Chili dan Red Chili, masak sampai chili matang.",
+      "Lalu masukan Shrimp Paste dan Kaffir Lime Leaves, masak sampai shrimp paste hancur dan matang.",
+      "Lalu blender halus dengan dibantu dengan air, setelah itu dimasak kembali, lalu masukkan sisa bahan dan cek rasanya."
+    ]
+  },
+  {
+    "id": 125,
+    "title": "PASTA DOUGH",
+    "time": "1 jam (resting) + semalaman (resting)",
+    "difficulty": "Sedang",
+    "description": "Adonan pasta dasar",
+    "ingredients": [
+      "500 gr flour",
+      "20 gr Olive Oil",
+      "10 gr Vinegar",
+      "6 pcs Egg Yolk",
+      "3 Pcs Whole Egg",
+      "1 tbs Salt"
+    ],
+    "steps": [
+      "Tuangkan Tepung Pada Bowl Stainless atau Working Table Dengan Menyerupai Gunung Lalu Buatkan Kubangan Pada Tengah tengah Tepung.",
+      "Lalu Tuangkan Semua Bahan Lalu campur Perlahan Lahan.",
+      "Setelah Tercampur, Lalu Uleni Beberapa Saat.",
+      "Lalu Bungkus Dengan Plastik Wrap, Resting Di chiller Selama 1 jam.",
+      "Lalu Uleni Kembali Hingga Kalis.",
+      "Lalu Warp Kembali dengan plastik wrap lalu resting semalamaan, keesokan Harinnya pasta siap di bentuk sesuai dengan keinginan."
+    ]
+  },
+  {
+    "id": 126,
+    "title": "SQUID INK PASTA DOUGH",
+    "time": "1 jam (resting) + semalaman (resting)",
+    "difficulty": "Sedang",
+    "description": "Adonan pasta tinta cumi",
+    "ingredients": [
+      "550 gr flour",
+      "65 gr squid ink",
+      "7 pcs Egg Yolk",
+      "2 pcs Whole Egg",
+      "10 gr Olive Oil",
+      "10 gr Vinegar",
+      "1 tbs Salt"
+    ],
+    "steps": [
+      "Tuangkan Tepung Pada Bowl Stainless atau Working Table Dengan Menyerupai Gunung Lalu Buatkan Kubangan Pada Tengah tengah Tepung.",
+      "Lalu Tuangkan Semua Bahan Lalu campur Perlahan Lahan.",
+      "Setelah Tercampur, Lalu Uleni Beberapa Saat.",
+      "Lalu Bungkus Dengan Plastik Wrap, Resting Di chiller Selama 1 jam.",
+      "Lalu Uleni Kembali Hingga Kalis.",
+      "Lalu Warp Kembali dengan plastik wrap lalu resting semalamaan, keesokan Harinya pasta siap dibentuk sesuai dengan keinginan."
+    ]
+  },
+  {
+    "id": 127,
+    "title": "GLUTEN - FREE BREAD",
+    "time": "1 jam 20 menit (panggang)",
+    "difficulty": "Sedang",
+    "description": "Roti bebas gluten",
+    "ingredients": [
+      "240 gr Buckwheat (saring pada bowl yang bersih)",
+      "3 tsp Baking Powder",
+      "1 tsp salt",
+      "42 gr Chia Seed (soaking 15 menit dengan air 280 ml)",
+      "60 gr Cashew Nut Butter",
+      "35 gr SunFlower Seed (soaking 15 Menit)",
+      "35 gr Pumpkin Seed (soaking 15 Menit)",
+      "15 gr Sesame Seed",
+      "190 ml Water"
+    ],
+    "steps": [
+      "Teampatkan Buckwheat Pada Bowl Stainless Yang bersih Dan kering, Lalu Campurkan Baking Powder dan Garam.",
+      "Campurkan Chia seed dengan air lalu diamkan selama 15 menit.",
+      "Setelah 15 menit Campurkan Cashew Butter Hingga Rata.",
+      "Campurkan Sunflower seed, Pumpkin seed dan sesame seed ke buckwheat, lalu tuangkan chia seed dengan dan sisa air, lalu aduk rata.",
+      "Tempatkan pada loyang yang sudah di lapisi dengan baking paper.",
+      "Resting 10 menit lalu panggang di oven dengan suhu 175, 1 jam 20 menit.",
+      "Setelah matang tempatkan pada cooling rack hingga dingin, lalu simpan."
+    ]
+  },
+  {
+    "id": 128,
+    "title": "RAS EL HANOUT",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran rempah Maroko",
+    "ingredients": [
+      "10 gr Ground Cumin",
+      "15 gr Ground Coriander Seed",
+      "15 gr Ground Ginger",
+      "5 gr Ground Black Pepper",
+      "4 gr Ground Cinnamon",
+      "4 gr Fermented Chili Flakes",
+      "3 gr Ground Allspice",
+      "3 gr Ground Clove",
+      "5 gr Sea Salt"
+    ],
+    "steps": [
+      "Campurkan semua Bahan dengan Rata."
+    ]
+  },
+  {
+    "id": 129,
+    "title": "RAS EL HANOUT BUTTER",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Mentega dengan bumbu Ras El Hanout",
+    "ingredients": [
+      "500 gr Clarified Butter",
+      "7 gr Ras el hanout",
+      "3 gr Sea Salt"
+    ],
+    "steps": [
+      "Campurkan semua Bahan dengan Rata."
+    ]
+  },
+  {
+    "id": 130,
+    "title": "GREMOLATA",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran bumbu segar Italia",
+    "ingredients": [
+      "60 gr Parsley",
+      "2 Pcs Lemon Zest",
+      "15 gr Garlic",
+      "50 ml Olive Oil"
+    ],
+    "steps": [
+      "Campurkan semua Bahan dengan Rata."
+    ]
+  },
+  {
+    "id": 131,
+    "title": "UMAMI BUTTER",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Mentega dengan rasa umami",
+    "ingredients": [
+      "50 gr Miso Paste",
+      "300 gr Butter",
+      "5 gr Salt",
+      "2 pcs Nori Seed (Panggang Samapai Kering Lalu Di blender Halus)"
+    ],
+    "steps": [
+      "Campurkan semua Bahan dengan Rata."
+    ]
+  },
+  {
+    "id": 132,
+    "title": "SMOKED CREOLE SALSA",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Salsa Creole asap",
+    "ingredients": [
+      "500 gr Tomato Cherry",
+      "200 gr Onion",
+      "300 gr Paprika Merah",
+      "150 gr Paprika HIjau",
+      "15 gr Tarragon Fresh",
+      "200 ml Extra Virgin Olive Oil",
+      "50 ml Red Wine Vinegar",
+      "25 gr Farsley Fresh"
+    ],
+    "steps": [
+      "Bakarlah Paprika merah, Hijau, Onion, dan Tomato Cherry.",
+      "Lalu bersihkan kulit Paprika yang Sudah di bakar Dan juga kulit Tomato Cherry.",
+      "Paprika dan Onion Di potong Dice lalu di masak menggunakan saucepan dan minyak masukan tarragon, Parsley, yang sudah di chopped, Red Wine Vinegar, kasih sedikit garam dan pepper, masukan Tomato Cherry Cek Rasanya."
+    ]
+  },
+  {
+    "id": 133,
+    "title": "HARISSA",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta cabai pedas khas Afrika Utara",
+    "ingredients": [
+      "2000 gr Paprika merah",
+      "200 gr Cashewnut",
+      "15 gr Garlic",
+      "60 gr Tomato Peeled",
+      "140 ml Olive Oil",
+      "2 gr Cumin Seed",
+      "2 gr Coriander Powder",
+      "5 gr Paprika Powder",
+      "65 gr Red Big Chili (Bakar Buang Kulit dan Biji)"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Harissa, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 134,
+    "title": "ACAR NASI GORENG",
+    "time": "30 menit + pendinginan",
+    "difficulty": "Mudah",
+    "description": "Acar untuk nasi goreng",
+    "ingredients": [
+      "3 pcs Cucumber",
+      "2 pcs Carrot",
+      "3 pcs Red Chili",
+      "1000 ml Drinking Water",
+      "300 gr Sugar",
+      "200 ml Narcissus",
+      "1 tsp Salt"
+    ],
+    "steps": [
+      "Belah melintang cucumber menjadi dua bagian, lalu belah melintang kembali menjadi dua bagian, lalu buang bijinya.",
+      "Gunakan pisau tajam untuk slice (slanting) lalu taburin garam.",
+      "Kupas Carrot, belah menjadi dua bagian lalu slice menggunakan mandoline, lebih tipis dari cucumber, lalu taburi garam.",
+      "Cuci bersih kedua bahan, lalu tiriskan.",
+      "Belah cabai merah menjadi dua, lalu iris tipis (slanting).",
+      "Campur air, cuka, gula dan garam pada sauce pot, didihkan, hingga gula larut.",
+      "Lalu dinginkan.",
+      "Campurkan air acar ke bahan acar dan cabai merah."
+    ]
+  },
+  {
+    "id": 135,
+    "title": "CHICKEN KEBAB SPICE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu rempah untuk kebab ayam",
+    "ingredients": [
+      "100 gr Salt",
+      "150 gr Smoked Paprika Powder",
+      "100 gr Onion Powder",
+      "25 gr Garlic Powder",
+      "25 gr Turmeric Powder",
+      "25 gr Black Pepper Powder"
+    ],
+    "steps": [
+      "Campurkan Semua Bahan Sampai Merata."
+    ]
+  },
+  {
+    "id": 136,
+    "title": "BEEF KEBAB SPICE",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu rempah untuk kebab sapi",
+    "ingredients": [
+      "50 gr Salt",
+      "150 gr Paprika Powder",
+      "35 gr Garlic Powder",
+      "5 gr Oregano Dry"
+    ],
+    "steps": [
+      "Campurkan Semua Bahan Sampai Merata."
+    ]
+  },
+  {
+    "id": 137,
+    "title": "PORK RAGU",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Saus ragu daging babi",
+    "ingredients": [
+      "2kg Pork Leg Boneless",
+      "3kg Tomato Sauce (Napolitana)",
+      "450gr Carrot",
+      "300gr Onion",
+      "6gr Oregano Dry",
+      "2gr Thyme Dry",
+      "1gr Rosemary Dry",
+      "1ltr Water Cleo"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Pork Ragu, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 138,
+    "title": "BECHAMEL",
+    "time": "30-40 menit",
+    "difficulty": "Sedang",
+    "description": "Saus bechamel klasik",
+    "ingredients": [
+      "1ltr Milk",
+      "1ltr Cream",
+      "50gr Onion (slice)",
+      "1pcs Garlic (slice)",
+      "3gr Thyme Fresh",
+      "3pcs Clove",
+      "200gr Butter",
+      "250gr Flour",
+      "1gr Nutmeg"
+    ],
+    "steps": [
+      "Pada sauce pan panaskan susu dan cream.",
+      "Tambahkan onion, garlic, clove dan thyme, lalu panaskan hingga agak mendidih.",
+      "Lalu matikan kompor dan diamkan onion, garlic, clove dan thyme teninfusi selma 20 menit.",
+      "Setelah 20 menit, saring.",
+      "Pada sauce pon lelehkan butter, lalu masukan tepung.",
+      "Masak hingga tepung matang dan pastikan semua tepung tercampur merata dengan butter.",
+      "Setelah teoung Matang, tuangkan susu dikit demi sedikit, sampai sauce mengental, lalu bumbui dengan nutmeg dan garam.",
+      "Dinginkan."
+    ]
+  },
+  {
+    "id": 139,
+    "title": "LASAGNA 10 LAYERS",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Lasagna 10 lapis",
+    "ingredients": [
+      "Pasta Dough",
+      "1,5kg Bolognese",
+      "2ltr Bechamel",
+      "600gr Mozarella Cheese"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Lasagna 10 Layers, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 140,
+    "title": "CHILI JAM",
+    "time": "45-60 menit",
+    "difficulty": "Sedang",
+    "description": "Selai cabai pedas",
+    "ingredients": [
+      "700gr Red Chili (bijinya dibuang)",
+      "200gr Shallot",
+      "90gr Garlic",
+      "200gr Tomato (potong kotak2 keci)",
+      "25gr Chili Hot",
+      "40gr Shrimp Paste (panggang)",
+      "300gr Brown Sugar",
+      "1tsp Salt",
+      "30ml Fish Sauce Finna Cap Oyster",
+      "100ml Salad Oil"
+    ],
+    "steps": [
+      "Potong kasar red chili, garlic dan shallot, lalu chop dengan menggunakan chopper secara terpisah.",
+      "Potong kotak kecil kecil tomat, lalu tempatkan pada bowl bersih.",
+      "Panaskan minyak pada sauce pan, lalu masukan red chili, masak hingga matang, lalu masukan shallot dan garlic, lalu masak hingga matang.",
+      "Setelah matang, blender halus bersama.",
+      "Masukan kembali pada sauce pan, lalu masak hingga matang."
+    ]
+  },
+  {
+    "id": 141,
+    "title": "FISH CAKE (KEKIAN)",
+    "time": "30-40 menit",
+    "difficulty": "Sedang",
+    "description": "Kue ikan (kekian)",
+    "ingredients": [
+      "350gr Mahi Mahi fillet tanpa tulang",
+      "40gr Tapioka",
+      "20gr Segitiga Biru",
+      "6gr Totole",
+      "2gr Salt",
+      "1gr Merica Putih",
+      "3gr Knorr Ayam",
+      "50gr Leek (bagian hijau yg muda, iris tipis)",
+      "50gr Salad Oil (panaskan lalu sautee leek hingga layu)",
+      "110gr Es Batu (air es)"
+    ],
+    "steps": [
+      "Potong kecil kecil Mahi Mahi fillet, pada tempat terpisah campurkan totole, garam, chicken knorr dan merica putih.",
+      "Masukan mahi mahi yang sudah dipotong kecil pada chopper, lalu dicincang sampai halus.",
+      "Lalu masukan campuran tepung, lalu cincang kembali sampai ikan dan tepung tercampur merata.",
+      "Setelah itu masukan leek yang sudah disiram dengan minyak panas dan air es, lalu blender hingga tercampur merata.",
+      "Lalu gulung adonan pada plastik wrap, sebanyak 3 kali.",
+      "Lalu vacuum dan rebus selama 25 menit."
+    ]
+  },
+  {
+    "id": 142,
+    "title": "ROLLED RICE NOODLE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Mie beras gulung",
+    "ingredients": [
+      "1000gr Tepung Beras",
+      "150gr Teoung Maizena",
+      "300gr Tepung Tapioka",
+      "15gr Totole",
+      "25gr Salt",
+      "25gr Minyak Wijen",
+      "1000gr Air Panas (mendidih)"
+    ],
+    "steps": [
+      "Masak air panas untuk merebus Rolled Rice Noodle.",
+      "Timbang tepung padamixing bowl stainless yg kering dan bersih.",
+      "Timbang air cleo pada sauce pot, tambahkan totole, garam dan minyak wijen lalu didihkan.",
+      "Setelah air mendidih, tuangkan sedikit demi sedikit kedalam tepung, dan aduk merata, tuangkan hingga airnya tercampur merata semua dengan tepung.",
+      "Setelah tercampur merata, bagi adonan dan gulung hingga membentuk tabung, lalu dolesi dengan minyak salad oil, lakukan hingga adonan habis berbentuk tabung.",
+      "Lalu rol tabung tersebut hingga membentuk pipa panjang, lalu bagi bagi adonan menjadi kecil kecil, hingga bisa di roll menggunakan telapak tangan. (olesi telapak tangan dengan sedikit minyak)",
+      "Rebus Rice Noodle dengan api sedang hingga mengapung, lalu angkat dan tempatkan pada kontainer yang sudah diisi air es.",
+      "Lalu dinginkan, setelah dingin, tiriskan roll rice noodle, setelah tiris, campurkan dengan sedikit salad oil agar tidak lengket dan porsi porsi."
+    ]
+  },
+  {
+    "id": 143,
+    "title": "FISH SATAY",
+    "time": "30-40 menit",
+    "difficulty": "Sedang",
+    "description": "Sate ikan",
+    "ingredients": [
+      "500gr Fish Fillet",
+      "75gr Red Chili (tanpa biji)",
+      "3gr Hot Chili",
+      "15gr Shrimp Paste",
+      "50gr Palm Sugar",
+      "75gr Ice",
+      "4gr Knorr",
+      "6gr Salt",
+      "40gr Salad Oil"
+    ],
+    "steps": [
+      "Potong kecil kecil fish fillet, lalu tempatkan dalam frezer selama 20 menit.",
+      "Blender terpisah red chili tanpa biji, hot chili, terasi, palm sugar, knorr, salt, salad oil dan ice sampai halus, lalu campur adonan ini ke ikan yg sudah dimasukan kedalam freezer.",
+      "Chop menggunkan chopper, cek kembali rasanya. jika sudah ok.",
+      "Gulung menggunakan plastic wrap, hingga membentuk sosis.",
+      "Lalu poach atau kukus selama 10 menit, Lalu dinginkan menggunakan ice bath."
+    ]
+  },
+  {
+    "id": 144,
+    "title": "SAUR / SERUNDENG",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Serundeng kelapa parut",
+    "ingredients": [
+      "80gr Dry Coconut",
+      "30gr Bumbu Bali",
+      "3gr Totole",
+      "2gr Salt",
+      "5gr Sugar"
+    ],
+    "steps": [
+      "Tempatkan semua bahan pada sauce pan, campur rata semua bahan, lalu masak perlahan hingga berwarna kecoklatan."
+    ]
+  },
+    {
+    "id": 145,
+    "title": "BEBEK GORENG",
+    "time": "2-2.5 jam",
+    "difficulty": "Sulit",
+    "description": "Bebek goreng",
+    "ingredients": [
+      "3kg Bebek",
+      "150gr Galangal",
+      "60gr Turmeric",
+      "75gr Lemongrass (memarkan)",
+      "70gr Garlic",
+      "15gr Coriander",
+      "5pcs Kaffir Lime Leaf",
+      "4pcs Salam Leave",
+      "30gr Salt",
+      "8gr Chicken Knorr",
+      "3ltr Water"
+    ],
+    "steps": [
+      "Cuci bersih bebek, bersihkan bulunya yg masih menempel.",
+      "Lalu taburi dengan 60 gr garam pada bebek, lalu diamkan selama setengah jam.",
+      "Lalu cuci bersih kembali.",
+      "Potong semua bahan kecil kecil, lalu blender dengan air, lalu masukan pada panci.",
+      "Tuang sisa airnya, lalu panaskan, masukan daun jeruk daun salam dan garam.",
+      "Jika sudah mendidih, masukan bebek, masak bebek dengan api kecil hingga bebek matang dan lembut.",
+      "Masak sampai 2 jam.",
+      "Cek kembali tekstur bebek, jika kurang lanjut kembali masak hingga setengah jam.",
+      "Angkat Bebek dan tempatkan pada kontainer GN 1/1 lalu wrap tempel, agar tidak kering dan keras.",
+      "Setelah dingin vacum dan tempatkan pada freezer."
+    ]
+  },
+  {
+    "id": 146,
+    "title": "CONFIT BEBEK GORENG",
+    "time": "90 menit (confit)",
+    "difficulty": "Sulit",
+    "description": "Bebek goreng confit",
+    "ingredients": [
+      "3pcs Bebek Utuh @ 1,2 kg",
+      "5ltr Minyak Bimoli",
+      "180gr Galangal",
+      "60gr Ginger",
+      "90gr Turmeric",
+      "75gr Lemongrass",
+      "70gr Garlic",
+      "18gr Coriander",
+      "12pcs Star Anise",
+      "6pcs Cloves",
+      "10pcs Kaffir Lime Leaf",
+      "8pcs Salam Leave"
+    ],
+    "steps": [
+      "Cuci bersih bebek utuh, lalu buang brutu - nya (pantat bebek) agar tidak mengeluarkan bau amis bebek.",
+      "Lalu potong ceker bebek dan kepalanya, setelah itu belah bebek menjadi 2 bagian.",
+      "Setelah itu timbang kembali Bebek yang sudah dibelah dua, lalu beratnya itu dikalikan dengan 1,5%, hasilnya ini adalah berat garam yang digunakan untuk dry cure Bebek utuh selama 1,5 jam di dalam chiller.",
+      "Setelah 1,5 jam, cuci bersih bebek, lalu tiriskan.",
+      "Iris galangal, ginger, turmeric, lemongrass dan garlic lalu tuangkan pada minyak bimoli bersama dengan kaffir lime leaves, daun salam, coriander seed, star anise dan clove, lalu panaskan ke suhu 100°C.",
+      "Lalu tempatkan bebek pada container GN Pan 1/1 10 cm, lalu tuang minyaknya, masukan ke oven rational, atur suhunya 115°C dan confit selama 90 menit."
+    ]
+  },
+  {
+    "id": 147,
+    "title": "DRY CURE SALT for CONFIT BEBEK GORENG",
+    "time": "8 menit (panaskan)",
+    "difficulty": "Mudah",
+    "description": "Garam kering untuk confit bebek goreng",
+    "ingredients": [
+      "300gr Salt",
+      "15pcs Kaffir Lime Leaves (julienne)",
+      "50pcs Chopped Lemongrass (fine chop)",
+      "30gr Coriander Seed Whole",
+      "15gr Black Pepper Whole"
+    ],
+    "steps": [
+      "Campur semua bahan, lalu panaskan di pan selama 8 menit, sambil diaduk aduk hingga, semua aroma bahan keluar dan menyatu."
+    ]
+  },
+  {
+    "id": 148,
+    "title": "SAUTEED ONION & GARLIC",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Bawang bombay dan bawang putih tumis",
+    "ingredients": [
+      "160gr Onion",
+      "50gr Garlic",
+      "2gr Fresh Rosemary Chop",
+      "120gr Salad Oil"
+    ],
+    "steps": [
+      "Chop onion dan garlic terpisah menggunakan chopper.",
+      "Panaskan salad oil pada sauce pan, lalu masak onion hingga transparan dan masukan garlic, masak hingga matang.",
+      "Setelah onion dan garlic matang, masukan rosemary yang sudah dichop, masak sebentar, lalu dinginkan."
+    ]
+  },
+  {
+    "id": 149,
+    "title": "DRESSING PAPAYA SALAD",
+    "time": "10-15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing untuk salad pepaya",
+    "ingredients": [
+      "290gr Red Chili (hilangkan bijinya)",
+      "25gr Tanpa Biji",
+      "40gr Terasi (bakar)",
+      "200gr Palm Sugar (Gula Aren)",
+      "10gr Chicken Knorr",
+      "8gr Salt",
+      "160gr Salad Oil"
+    ],
+    "steps": [
+      "Potong kasar red chili, tempatkan pada blender bersama dengan hot chili, terasi, gula aren, salad oil, knorr dan garam.",
+      "Lalu blender hingga halus dan teremulsi dengan minyaknya."
+    ]
+  },
+  {
+    "id": 150,
+    "title": "HOUSEMADE NOODLE RAMEN (10 portion @150 gr)",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Mie ramen buatan sendiri",
+    "ingredients": [
+      "250gr Cakra Flour (1030 gr)",
+      "3gr Baking Powder (14 gr)",
+      "90gr Water (450 gr)",
+      "2gr Salt (10 gr)"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Housemade Noodle Ramen, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 151,
+    "title": "LAKSA PASTE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Pasta bumbu laksa",
+    "ingredients": [
+      "50gr Garlic",
+      "150gr Shallot",
+      "200gr Ebi",
+      "50gr Lemon Grass",
+      "20gr Galangal",
+      "5gr Coriander seed",
+      "10gr Turmeric Powder",
+      "300gr Red Chili",
+      "10gr Red Dry Chili",
+      "200ml Salad Oil"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Laksa Paste, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 152,
+    "title": "LAKSA STOCK",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Kaldu laksa",
+    "ingredients": [
+      "80gr Laksa Paste",
+      "30gr Oil",
+      "600ml Chicken Stock",
+      "100ml Coconut Milk",
+      "1tsp Salt",
+      "1tp Sugar",
+      "1tsp Knorr Chicken",
+      "3tbs Fish Gravy"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Laksa Stock, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 153,
+    "title": "COLESLAW & POTATO SALAD DRESSING",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing untuk coleslaw dan salad kentang",
+    "ingredients": [
+      "1200gr Mayonnaise",
+      "45gr Honey",
+      "70gr Apple Cider Vinegar",
+      "60gr Dijon Mustard",
+      "35gr Salt",
+      "2gr Black pepper"
+    ],
+    "steps": [
+      "Campur semua bahan, cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 154,
+    "title": "TAHINI DRESSING (CARROT SALAD BBQ)",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing tahini untuk salad wortel BBQ",
+    "ingredients": [
+      "30gr Tahini",
+      "500gr Lemon Garlic Vinaigrette"
+    ],
+    "steps": [
+      "Campur semua bahan menggunakan blender agar teremulsi, cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 155,
+    "title": "HONEY MUSTARD DRESSING",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing madu mustard",
+    "ingredients": [
+      "600gr Mayonnaise",
+      "110gr Honey",
+      "75gr Dijon Mustard",
+      "15gr Grainy Mustard",
+      "30gr Red Wine Vinegar",
+      "2gr Turmeric Powder"
+    ],
+    "steps": [
+      "Campur semua bahan hingga rata, cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 156,
+    "title": "THOUSAND ISLAND DRESSING",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing Thousand Island",
+    "ingredients": [
+      "400gr Mayonaise",
+      "230gr Tomato Ketchup",
+      "35gr Juice Gherkin Pickle",
+      "3gr Salt",
+      "1gr Sweet Paprika Powder (bukan smoke paprika)"
+    ],
+    "steps": [
+      "Campur semua bahan, cek kembali rasanya."
+    ]
+  },
+  {
+    "id": 157,
+    "title": "CHEESE SAUCE THERMIDOR",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Saus keju Thermidor",
+    "ingredients": [
+      "350gr Cream",
+      "250ml Milk",
+      "15gr Onion",
+      "1pcs Garlic Small",
+      "1pcs Clove",
+      "40gr Butter",
+      "50gr Four Segitiga Biru",
+      "1tsp Smoke Paprika Powder",
+      "50gr Parmesan Cheese",
+      "50gr Cheese Slice",
+      "Seasoning dengan garam dan merica."
+    ],
+    "steps": [
+      "Tempatkan pada sauce pot yang kecil, lalu didihkan, dan angkat dari api.",
+      "Buat dasar saus bechamel."
+    ]
+  },
+  {
+    "id": 158,
+    "title": "TEMPE BACON",
+    "time": "30-40 menit",
+    "difficulty": "Sedang",
+    "description": "Tempe rasa bacon",
+    "ingredients": [
+      "200gr Brown Sugar",
+      "150ml Kecap Asin",
+      "40ml Vinegar (Red Wine / White Wine / Apple Cider)",
+      "25ml Smoke Liquid",
+      "15gr Cumin Powder",
+      "15gr Paprika Powder",
+      "60ml Salad Oil",
+      "200ml Water"
+    ],
+    "steps": [
+      "Tempatkan semua bahan pada sauce pot, lalu masak sampai gula larut dengan baik.",
+      "Setelah gula larut, masukan tempe yang sudah dipotong potong, masak hingga mendidih, kecilkan api, masak selama 10 menit, lalu matikan api.",
+      "Biarkan tempe didalam liquid, kurang lebih 30 menit.",
+      "Lalu angkat, cairan bisa digunakan kembali."
+    ]
+  },
+  {
+    "id": 159,
+    "title": "BUTTERMILK",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Buttermilk buatan sendiri",
+    "ingredients": [
+      "100ml Milk",
+      "10gr Cream",
+      "6gr Cuka Beras Narcisus"
+    ],
+    "steps": [
+      "Campurkan semua bahan, lalu tempatkan kedalam kontainer."
+    ]
+  },
+  {
+    "id": 160,
+    "title": "CHICKEN WING FLOUR MIX",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran tepung untuk sayap ayam",
+    "ingredients": [
+      "500gr Lencana Merah",
+      "1tsp Dry Oregano",
+      "1/2tsp Garlic Powder",
+      "1tsp Onion Powder",
+      "1tbs Paprika Powder",
+      "1bs Salt",
+      "1tsp Whitepepper Powder"
+    ],
+    "steps": [
+      "Mix semua bahan, lalu tempatkan pada kontainer tertutup."
+    ]
+  },
+  {
+    "id": 161,
+    "title": "KYOTO CAESAR DRESSING",
+    "time": "10-15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus Caesar ala Kyoto",
+    "ingredients": [
+      "3pcs Egg Yolk",
+      "20gr Rice Vinegar (mizkan)",
+      "10gr Anchovies",
+      "45gr Miso Paste",
+      "1/2 Blackpepper",
+      "1tsp Salt",
+      "75ml Sesame Oil",
+      "450gr Mayonnaise"
+    ],
+    "steps": [
+      "Tempatkan egg yolk pada blender, masukan anchovies, miso paste, rice vinegar, lalu blender hingga tercampur rata.",
+      "Lalu masukan mayonaise, salt dan blackpepper.",
+      "Blender kembali hingga rata.",
+      "Lalu cek kembali seasoningnya."
+    ]
+  },
+  {
+    "id": 162,
+    "title": "FURIKAKE",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu tabur Jepang",
+    "ingredients": [
+      "45gr Sesame Seed White",
+      "15gr Sesame Seed Black",
+      "15gr Nori Sheet",
+      "1tsp Salt",
+      "1tsp Sugar",
+      "2tsp Chili Flakes"
+    ],
+    "steps": [
+      "Panggang nori sheet, kemudian blender hingga halus, sisihkan.",
+      "Tempatkan sesame seed pada frying pan, lalu toast hingga matang.",
+      "Campurkan semua bahan, lalu simpan pada container yg kedap udara."
+    ]
+  },
+  {
+    "id": 163,
+    "title": "CURED EGG YOLK",
+    "time": "4-6 hari (pengawetan) + 45-60 menit (pengeringan)",
+    "difficulty": "Sulit",
+    "description": "Kuning telur yang diawetkan",
+    "ingredients": [
+      "540 gr Salt (garam pasar)",
+      "100 gr Sugar White",
+      "7 gr Nori Sheet (sobek sobek)",
+      "2 gr Chili Flakes",
+      "8pcs Egg Yolk"
+    ],
+    "steps": [
+      "Campurkan garam, gula, nori sheet dan bubuk cabai dalam mangkuk stainless besar.",
+      "Sebarkan setengah dari campuran garam di dalam loyang atau wadah.",
+      "Gunakan sendok atau telur untuk membuat empat cekungan kecil di dalam campuran garam.",
+      "Pisahkan kuning telur dari putihnya, tempatkan satu kuning telur dengan hati - hati di setiap cekungan.",
+      "Taburkan sisa campuran garam di atas kuning telur hingga benar - benar tertutup.",
+      "Tutup wadah dengan baik masukkan ke dalam kulkas selama 4 - 6 hari.",
+      "Panaskan oven pada suhu 65°C.",
+      "Hilangkan garam dari setiap kuning telur, lalu bilas kuning telur dengan air.",
+      "Keringkan setiap kuning telur dengan baik, letakkan rak kawat di atas loyang dan semprotkan sedikit minyak sayur di atas rak.",
+      "Tempatkan kuning telur di atas rak dan biarkan mengering di dalam oven selama 45 hingga 60 menit."
+    ]
+  },
+  {
+    "id": 164,
+    "title": "BRINE LIQUID",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Cairan brine untuk daging",
+    "ingredients": [
+      "8pcs Whole Chicken 1,2 kg",
+      "1ltr Water",
+      "4kg Ice Cube",
+      "240gr Salt (garam pasar)",
+      "180gr Sugar",
+      "1tsp Black Peppercorn",
+      "1pcs Lemon, iris iris membentuk roda",
+      "1pcs Orange, iris iris membentuk roda",
+      "10pcs Thyme / 1/2tsp Dry Thyme",
+      "3pcs Garlic (slice tipis)",
+      "2pcs Bay Leaves"
+    ],
+    "steps": [
+      "Tempatkan semua bahan pada sauce pot, kecuali ice cube, Lalu didihkan hingga gula dan garam larut.",
+      "Setelah larut, campurkan ice cube.",
+      "Liquid siap digunakan untuk Duck, Chicken, Quail, Pigeon, Turkey dan Pork."
+    ]
+  },
+  {
+    "id": 165,
+    "title": "SMOKED RUB",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Bumbu gosok asap",
+    "ingredients": [
+      "8gr Garlic Powder",
+      "5gr Onion Powder",
+      "15gr Smoked Paprika Powder",
+      "0gr Brown Sugar",
+      "10gr Dried Thyme",
+      "10gr Salt",
+      "1/2tsp Chili Powder",
+      "5gr Black Pepper Powder",
+      "3gr Cumin Powder"
+    ],
+    "steps": [
+      "Campur semua bahan, tempatkan pada kontainer kedap udara dan diberikan selica gel, agar tidak menggumpal."
+    ]
+  },
+  {
+    "id": 166,
+    "title": "MIE",
+    "time": "1 malam (resting)",
+    "difficulty": "Sedang",
+    "description": "Adonan mie",
+    "ingredients": [
+      "500gr Cakra",
+      "100gr Tapioka",
+      "1pcs Egg (berat 50 gr)",
+      "160gr Air",
+      "10gr Cuka",
+      "5gr Salt"
+    ],
+    "steps": [
+      "Aduk rata bahan kering, campurkan bahan basah, lalu tempatkan bahan kering pada dough mixer, dan masukan perlahan bahan basah, hingga semuanya tercampur rata.",
+      "Vacuum seal, dan rest di chiller selama 1 malam."
+    ]
+  },
+  {
+    "id": 167,
+    "title": "KULIT PANGSIT",
+    "time": "1 malam (autolise)",
+    "difficulty": "Sedang",
+    "description": "Kulit pangsit",
+    "ingredients": [
+      "150gr Terigu Segitiga Biru",
+      "150gr Cakra Flour",
+      "1tsp Salt",
+      "120ml Water Cleo"
+    ],
+    "steps": [
+      "Campurkan tepung dan garam pada bowl, campur dengan baik.",
+      "Lalu vacuum dan autolise semalam pada chiller."
+    ]
+  },
+  {
+    "id": 168,
+    "title": "BUMBU RICA RICA",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Bumbu rica-rica",
+    "ingredients": [
+      "250gr Cabai Merah (iris tipis)",
+      "100gr Shallot (iris tipis)",
+      "650gr Garlic (iris tipis)",
+      "25gr Candlenut (iris tipis)",
+      "40gr Ginger (iris tipis)",
+      "80gr Salad Oil",
+      "3pcs Daun Jeruk",
+      "3pcs Lemongrass (memarkan)"
+    ],
+    "steps": [
+      "Panaskan minyak pada sautee pan, lalu masukan, cabai, shallot, garlic, candlenut, ginger, masak hingga matang.",
+      "Lalu blender halus, masukan kembali pada pan, tambahkan lemongrass dan daun jeruk.",
+      "Masak hingga minyaknya naik."
+    ]
+  },
+  {
+    "id": 169,
+    "title": "RICA RICA SAPI",
+    "time": "20-30 menit",
+    "difficulty": "Mudah",
+    "description": "Daging sapi rica-rica",
+    "ingredients": [
+      "1kg Minced Beef",
+      "1rcp Bumbu Rica Rica"
+    ],
+    "steps": [
+      "Sautee minced beef hingga berwarna kecoklatan, masukan bumbu rica rica, lalu seasoning dengan garam, knorr dan merica."
+    ]
+  },
+  {
+    "id": 170,
+    "title": "AYAM JAMUR",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Ayam dengan jamur",
+    "ingredients": [
+      "700gr Chicken Leg boneless (tanpa kulit)",
+      "900gr Button Mushroom",
+      "200gr Shimeji Mushroom",
+      "200gr Onion",
+      "30gr Ginger",
+      "80gr Garlic",
+      "45gr Mushroom Soy Sauce",
+      "80gr Oyster Sauce",
+      "25gr Knorr",
+      "30gr Gula",
+      "400gr Air",
+      "25gr Maizena"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Ayam Jamur, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 171,
+    "title": "GARNISH RICA RICA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Garnish untuk rica-rica",
+    "ingredients": [
+      "40gr Shallot",
+      "100gr Red Chili",
+      "50gr Lemongrass"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Garnish Rica Rica, hanya daftar bahan."
+    ]
+  },
+    {
+    "id": 172,
+    "title": "SAMBAL SOTO",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sambal untuk soto",
+    "ingredients": [
+      "50gr Hot Chili",
+      "50gr Red Chili",
+      "10gr Garlic"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sambal Soto, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 173,
+    "title": "CRANBERRY SAUCE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Saus cranberry",
+    "ingredients": [
+      "120gr Apple Lokal",
+      "5gr Ginger",
+      "250gr Dried Cranberry",
+      "60gr Frozen Mix Berries",
+      "100gr Sugar",
+      "80gr Orange Juice",
+      "5gr Cinnamon Stick"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Cranberry Sauce, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 174,
+    "title": "POLENTA FRIES",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kentang goreng polenta",
+    "ingredients": [
+      "600 ml Chicken Stock",
+      "600ml Milk",
+      "300gr Polenta",
+      "100gr Parmesan Cheese",
+      "80gr Butter",
+      "15gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Polenta Fries, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 175,
+    "title": "POLENTA CREAM",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Krim polenta",
+    "ingredients": [
+      "800ml Milk",
+      "100ml Cream Cooking",
+      "150gr Polenta",
+      "50gr Parmesan Cheese",
+      "50gr Butter",
+      "8gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Polenta Cream, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 176,
+    "title": "EGGPLANT BACON LIQUID",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Cairan untuk terong bacon",
+    "ingredients": [
+      "30ml Salad Oil",
+      "15ml Maple Syrup",
+      "22ml Kecap Asin",
+      "5ml Smoked Liquid",
+      "3gr Smoked Paprika Powder",
+      "3gr Garlic Powder"
+    ],
+    "steps": [
+      "Campur semua bahan dengan rata pada bowl stainless.",
+      "Lumuri eggplant bacon yang sudah digoreng dengan menggunakan kuas, agar eggplant tidak hancur."
+    ]
+  },
+  {
+    "id": 177,
+    "title": "HERBS VINAIGRETTE",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Vinaigrette herbal",
+    "ingredients": [
+      "100ml Olive Oil",
+      "50ml Salad Oil",
+      "75gr Chopped Shallot",
+      "15gr Garlic Chopped",
+      "20gr Dijon Mustard",
+      "25ml Red Wine Vinegar",
+      "1/2tsp Black Pepper",
+      "1tsp Salt",
+      "8gr Italian Parsley",
+      "15gr Spring Onion (iris tipis)"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Herbs Vinaigrette, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 178,
+    "title": "NORI SALT",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Garam nori",
+    "ingredients": [
+      "100gr Salt",
+      "15gr Nori",
+      "20gr Icing Sugar"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Nori Salt, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 179,
+    "title": "CHILI KAFFIR LIME SALT",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Garam cabai daun jeruk purut",
+    "ingredients": [
+      "15gr Kaffir Lime Leaf (buang batang pada daunnya)",
+      "5gr Big Dry Chili (buang batunya)",
+      "200gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Chili Kaffir Lime Salt, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 180,
+    "title": "MISO SESAME DRESSING",
+    "time": "10-15 menit",
+    "difficulty": "Mudah",
+    "description": "Saus dressing miso wijen",
+    "ingredients": [
+      "200ml Salad Oil",
+      "30gr Miso Paste",
+      "100ml Soy Sauce",
+      "75ml Mizkan",
+      "80gr Tahini",
+      "50gr Sesame Seed White",
+      "15ml Sesame Oil"
+    ],
+    "steps": [
+      "Blender kasar sesame seed, jangan sampai halus.",
+      "Campur rata semua bahan."
+    ]
+  },
+  {
+    "id": 181,
+    "title": "HOMEMADE YOGURT 1",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Yogurt buatan sendiri (versi 1)",
+    "ingredients": [
+      "200gr Yogurt Starter",
+      "1ltr Milk",
+      "30gr Sugar"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Homemade Yogurt 1, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 182,
+    "title": "HOMEMADE YOGURT NEW",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Yogurt buatan sendiri (versi baru)",
+    "ingredients": [
+      "4ltr fresh greenfield",
+      "500gr yogurt greenfield"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Homemade Yogurt New, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 183,
+    "title": "SAMBAL BAJAK",
+    "time": "45-60 menit",
+    "difficulty": "Sedang",
+    "description": "Sambal bajak",
+    "ingredients": [
+      "150gr Garlic",
+      "200gr Shallot",
+      "1,2kg Red Chili Big",
+      "500gr Tomato",
+      "90gr Brown Sugar",
+      "35gr Terasi",
+      "45gr Oyster Sauce",
+      "20gr Salt",
+      "400ml Oil Salad"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sambal Bajak, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 184,
+    "title": "SAMBAL BAJAK VEGAN",
+    "time": "45-60 menit",
+    "difficulty": "Sedang",
+    "description": "Sambal bajak vegan",
+    "ingredients": [
+      "150gr Garlic",
+      "200gr Shallot",
+      "1,2kg Red Chili Big",
+      "500gr Tomato",
+      "90gr Brown Sugar",
+      "20gr Salt",
+      "30gr Totole",
+      "400ml Oil Salad"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sambal Bajak Vegan, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 185,
+    "title": "NASI UDUK | COCONUT STEAM RICE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Nasi uduk atau nasi kukus kelapa",
+    "ingredients": [
+      "1kg Rice",
+      "200ml Coconut Milk",
+      "1ltr Drinking Water",
+      "16gr Salt",
+      "16gr Knorr Chicken Powder",
+      "16gr Galangal Slice",
+      "2pcs Shallot",
+      "4pcs Garlic",
+      "8pcs Kaffir Lime Leaf (kalo yg medium)",
+      "6pcs Daun Salam",
+      "4pcs Lemongrass"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Nasi Uduk, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 186,
+    "title": "SATE REMBIGA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sate Rembiga",
+    "ingredients": [
+      "2kg Daging Sapi",
+      "12pcs Cabe Keriting",
+      "6pcs Cabe Merah Besar Kering (rebus air panas)",
+      "4pcs Cabe Merah Besar",
+      "1sdt Ketumbar Bubuk",
+      "5pcs Bawang Putih",
+      "2pcs Air Jeruk Limau",
+      "8gr Terasi Lombok",
+      "5gr Garam",
+      "1/2sdt Kaldu Bubuk Sapi",
+      "1/2sdt Baking Powder",
+      "50gr Gula Merah (Klungkung)",
+      "2sdt Gula Pasir",
+      "2sdt Kecap Manis",
+      "2sdt Minyak Goreng",
+      "40gr Asam Jawa, direndam dengan 100 ml air panas"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sate Rembiga, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 187,
+    "title": "BRIOCHE LOAF TOAST",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti brioche panggang",
+    "ingredients": [
+      "480gr Cleo",
+      "530gr Levain Aktif",
+      "10gr Yeast",
+      "2pcs Egg (@ 50gr)",
+      "110gr Sugar",
+      "1kg Cakra",
+      "10gr IF - 100 Bread Improver",
+      "50gr Milk Powder",
+      "5gr Baking Powder",
+      "10gr Salt (Garam Pasar)",
+      "70gr Butter (melt)"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Brioche Loaf Toast, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 188,
+    "title": "VEGAN FETA CHEESE 1",
+    "time": "1 hari (marinasi)",
+    "difficulty": "Sedang",
+    "description": "Keju feta vegan (versi 1)",
+    "ingredients": [
+      "400gr Tofu Tahu Lombok",
+      "60ml Apple Cider Vinegar",
+      "30ml Lemon Juice",
+      "30gr Miso Paste",
+      "25gr Nutritional Yeast",
+      "1tsp Dry Oregano",
+      "1/4tsp Salt",
+      "1pcs Garlic Clove",
+      "100ml Olive Oil",
+      "1pcs Bayleaf"
+    ],
+    "steps": [
+      "Tempatkan tahu pada kasa hydrophile lalu tempatkan pada container, lalu press dengan pemberat. Hingga kadar airnya hilang.",
+      "Pada bowl stainless yang bersih campur, apple cider, lemon juice, miso paste, nutritional yeast, dry oregano olive oil, dan garam. Lalu aduk rata hingga tercampur.",
+      "Potong kotak kotak tahu yang sudah dipress, lalu tempatkan pada jar kaca, masukan cairan marinasinya dan bayleaf.",
+      "Biarkan tahu dimarinasi 1 semalaman, sebelum digunakan."
+    ]
+  },
+  {
+    "id": 189,
+    "title": "VEGAN FETA CHEESE 2",
+    "time": "30-45 menit + pendinginan",
+    "difficulty": "Sedang",
+    "description": "Keju feta vegan (versi 2)",
+    "ingredients": [
+      "750gr Tofu Tahu Lombok",
+      "50gr Nutritional Yeast",
+      "25gr Miso Paste (Miso Shiro)",
+      "60gr Lemon Juice",
+      "5gr Black Salt",
+      "4pcs Agar Agar"
+    ],
+    "steps": [
+      "Tempat tahu pada bowl stainless yang bersih, tambahkan nutritional yeast, miso paste, lemon juice, black salt dan 2 pcs agar agar powder.",
+      "Lalu campur dengan rata, lalu blender semua bahan dengan sedikit air, agar blender mau berputar.",
+      "Sisa dari agar agar campur dengan sedikit air, lalu blender kembali hingga rata.",
+      "Tempatkan semua bahan pada sauce pot, panaskan menggunakan api kecil, untuk mengaktifkan agar - agarnya, setelah panas tempatkan pada cetakan, lalu ice - bath.",
+      "Setelah Nge - set, potong sesuai dengan keinginan."
+    ]
+  },
+  {
+    "id": 190,
+    "title": "PESTO AIOLI / MAYO",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Aioli atau mayones pesto",
+    "ingredients": [
+      "180gr Mayonnaise Hellmans",
+      "15gr Pesto",
+      "3gr Salt",
+      "1/8tsp Blackpper"
+    ],
+    "steps": [
+      "Campur semua bahan pada bowl stainless yang bersih dan aduk rata."
+    ]
+  },
+  {
+    "id": 191,
+    "title": "SWEET PICKLE RELISH",
+    "time": "1 jam (perendaman) + 20 menit (simmer)",
+    "difficulty": "Sedang",
+    "description": "Acar manis",
+    "ingredients": [
+      "1,1kg Cucumber",
+      "350gr Onion",
+      "75gr Salt",
+      "450ml Red Wine Vinegar",
+      "300gr Sugar",
+      "1/4tsp Turmeric Powder",
+      "1pcs Bay Leaf",
+      "1tsp Mustard Seed"
+    ],
+    "steps": [
+      "Cuci bersih cucumber, lalu belah menjadi 2, hilangkan bijinya dan potong kasar.",
+      "Kupas onion, pastikan tidak ada kulitnya, lalu potong kasar.",
+      "Tempatkan cucumber pada chopper, dan chop kasar, onion juga diperlakukan sama.",
+      "Lalu campur kedua bahan menjadi satu.",
+      "Bubuhkan garam, aduk rata dan diamkan selama satu jam.",
+      "Setelah satu jam, cuci dengan air dingin (diisi es agar airnya dingin).",
+      "Lalu tiriskan, gunakan kain kasa untuk membuang sisa airnya.",
+      "Pada sauce pot, masukan vinegar, sugar, bay leaf dan turmeric powder, masak hingga gula larut, lalu masukan cucumber dan onion yang sudah disaring.",
+      "Didihkan lalu simmer selama 20 menit.",
+      "Dinginkan."
+    ]
+  },
+  {
+    "id": 192,
+    "title": "SECRET SAUCE BEEF BURGER",
+    "time": "10 menit",
+    "difficulty": "Mudah",
+    "description": "Saus rahasia untuk burger sapi",
+    "ingredients": [
+      "300gr Mayonnaise Hellmans",
+      "90gr Tomato Ketchup",
+      "150gr Sweet Relish",
+      "30gr Dijon Mustard",
+      "5gr Smoked Paprika Powder",
+      "2gr Garlic Powder",
+      "5gr Onion Powder",
+      "40gr Chili Sauce ABC"
+    ],
+    "steps": [
+      "Pada stainless bowl yang bersih, tempatkan semua bahan, lalu aduk rata."
+    ]
+  },
+  {
+    "id": 193,
+    "title": "PEPES IKAN MAHI MAHI",
+    "time": "20-30 menit (termasuk kukus)",
+    "difficulty": "Sedang",
+    "description": "Pepes ikan Mahi Mahi",
+    "ingredients": [
+      "200gr Mahi Mahi (tanpa tulang)",
+      "60gr Bumbu Bali",
+      "60gr Santan Kara",
+      "40ml Salad Oil",
+      "1pcs Daun Jeruk (fine julienne)",
+      "1pcs Cabai Pedas (tanpa biji, fine julienne)",
+      "½ pcs Cabai Merah Besar (tanpa biji, slice)",
+      "5gr Salt",
+      "3gr Totole"
+    ],
+    "steps": [
+      "Hilangkan tulang pada ikan mahi mahi, lalu potong slanting (diamond cut).",
+      "Pada blender, masukan bumbu bali, santan kara, garam dan totole, lalu blender halus.",
+      "Pada bowl yang bersih, tempatkan ikan mahi - mahi, cabai dan daun jeruk beserta bumbu yang sudah diblender halu.",
+      "Lalu aduk rata.",
+      "Bungkus ikan dengan menggunakan daun pisang, lalu kukus selama 12 menit di Oven Rational, lalu dinginkan."
+    ]
+  },
+  {
+    "id": 194,
+    "title": "BUMBU MARINASI SATE",
+    "time": "30-45 menit",
+    "difficulty": "Sedang",
+    "description": "Bumbu marinasi untuk sate",
+    "ingredients": [
+      "60gr Cabai Merah Besar Kering",
+      "60gr Cabai Merah Besar (tanpa biji)",
+      "30gr Garlic",
+      "10gr Terasi",
+      "8gr Ketumbar Bubuk",
+      "150ml Minyak",
+      "25gr Salt",
+      "18gr Knorr",
+      "10gr Totole",
+      "110gr Palm Sugar"
+    ],
+    "steps": [
+      "Rebus cabai merah kering hingga lunak, lalu tiriskan.",
+      "Potong kasar cabai merah besar dan garlic, lalu tempatkan pada blender bersama, cabai kering yang sudah direbus, garlic, minyak dan terasi.",
+      "Lalu blender halus, tambahkan sedikit air untuk membantu blender memproses hingga halus.",
+      "Tempatkan bumbu pada saute pan, lalu masak hingga matang.",
+      "Tambahkan ketumbar bubuk, garam, knorr, totole dan gula merah.",
+      "Masak hingga minyaknya terpisah dari bumbunya."
+    ]
+  },
+  {
+    "id": 195,
+    "title": "SATE DAGING SAPI",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sate daging sapi",
+    "ingredients": [
+      "350gr Tenderloin Lokal",
+      "75gr Bumbu Marinasi Sate",
+      "5gr Salt",
+      "25gr Kecap Manis"
+    ],
+    "steps": [
+      "Potong tenderloin lokal sesuai dengan keinginan, lalu bumbui dengan bumbu marinasi sate dan kecap manis.",
+      "Tusuk sate dengan bamboo skewer, timbang dengan berat 45 gr - 50 gr per tusuk."
+    ]
+  },
+  {
+    "id": 196,
+    "title": "KENTANG MANIS",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kentang manis",
+    "ingredients": [
+      "300gr Potato Julienne",
+      "30gr Bumbu Nasi Goreng",
+      "40gr Palm Sugar",
+      "80ml Water"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Kentang Manis, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 197,
+    "title": "SAYUR URAB NASI CAMPUR",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sayur urab untuk nasi campur",
+    "ingredients": [
+      "80gr Kacang Panjang",
+      "80gr Kecipir",
+      "200gr Tauge",
+      "50gr Serundeng",
+      "3gr Salt",
+      "½ pcs Jeruk Lemo"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sayur Urab Nasi Campur, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 198,
+    "title": "SPICED TOMATO",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Tomat berbumbu",
+    "ingredients": [
+      "750gr Tomato",
+      "80gr Tomato Paste",
+      "120gr Onion (iris tipis)",
+      "20gr Garlic (iris tipis)",
+      "2gr Cumin",
+      "8gr Smoked Paprika Powder",
+      "5gr Salt",
+      "80ml Olive Oil"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Spiced Tomato, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 199,
+    "title": "BUMBU RAJANG BALI (DI BLENDER)",
+    "time": "45-60 menit",
+    "difficulty": "Sulit",
+    "description": "Bumbu rajang Bali (diblender)",
+    "ingredients": [
+      "1,3kg Lengkuas (slice tipis, lau julienne)",
+      "300gr Jahe (slice tipis, lau julienne)",
+      "200gr Kunyit (slice tipis, lau julienne)",
+      "100gr Kencur(slice tipis)",
+      "500gr Lemongrass Sereh (slice)",
+      "800gr Bawang Merah",
+      "450gr Bawang Putih",
+      "80gr Cabai Merah Besar (tanpa biji)",
+      "80gr Cabai Kecil",
+      "6pcs Daun Salam",
+      "800ml Salad Oil",
+      "Air untuk blender kurang lebih 2,5 ltr"
+    ],
+    "steps": [
+      "Tempat semua bahan pada bowl besar, kecuali daun salam dan minyak, lalu aduk rata.",
+      "Tempatkan pada blender lalu blender dengan air secukupnya, lakukan ini hingga air semua bahan terlender habis.",
+      "Tempatkan daun salam, minyak dan bumbu yang sudah di blender pada stock pot yang besar agar mudah untuk mengaduknya.",
+      "Masak hingga minyaknya agak naik, lalu masukan Jejaton / Wangen yang sudah diblender halus, masak hingga minyaknya naik, tanda bumbu sudah matang."
+    ]
+  },
+  {
+    "id": 200,
+    "title": "JEJATON / WANGEN",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Campuran rempah Jejaton / Wangen",
+    "ingredients": [
+      "65gr Ketumbar",
+      "20gr Merica Hitam Utuh",
+      "10gr Merica Putih Utuh",
+      "3gr Jinten / Cumin",
+      "2gr Wijen Putih",
+      "5pcs Cengkeh",
+      "1pcs Pala Utuh (slice tipih)",
+      "100gr Kemiri Candlenut (slce tipis)"
+    ],
+    "steps": [
+      "Sangrai semua bahan diatas dengan api kecil, jangan sampai gosong.",
+      "Dinginkan lalu blender halus."
+    ]
+  },
+  {
+    "id": 201,
+    "title": "MAHI MAHI SATE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sate Mahi Mahi",
+    "ingredients": [
+      "300gr Mahi Mahi Fillet potong dice",
+      "50 gr Bumbu Sate",
+      "3gr Totole",
+      "10gr Kecap Manis"
+    ],
+    "steps": [
+      "Aduk rata semua bahan, lalu tusuk tusuk sate."
+    ]
+  },
+  {
+    "id": 202,
+    "title": "MUSHROOM PATTY",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Patty jamur",
+    "ingredients": [
+      "1kg Oyster Mushroom",
+      "8gr Salt",
+      "10gr Totole",
+      "2gr Cumin",
+      "5gr Paprika Powder",
+      "5gr Garlic Powder",
+      "40gr Maizena",
+      "80gr Onion (iris tipis)",
+      "Adonan Tempura",
+      "Bread Crumb"
+    ],
+    "steps": [
+      "Robek robek mushroom tiram, untuk pangkal mushroom gunakan pisau untuk mengiris tipis - tipis, tempatkan jamur pada bowl stainless, lalu campurkan garam, remas remas jamur hingga keluar airnya.",
+      "Peras airnya dari jamur, lalu tempatkan pada bowl stainless yang bersih dan kering.",
+      "Tambahkan totole, cumin, paprika powder, garlic powder, maizena dan onion, lalu aduk rata sambil meremas remas, hingga adonan tercampur rata.",
+      "Timbang 80 gr, lalu bentuk menyerupai patty dengan ring cutter, lalu panggang di dalam oven dengan suhu 160°C selama 5 menit, lalu balik patty dan panggang kembali selama 4 menit.",
+      "Dinginkan patty, lalu breaded dengan menggunakan tempura flour dan bread crumb."
+    ]
+  },
+  {
+    "id": 203,
+    "title": "GINGERSNAP COOKIES",
+    "time": "2 jam (resting) + 15 menit (panggang)",
+    "difficulty": "Sedang",
+    "description": "Kue jahe",
+    "ingredients": [
+      "Dry Mix:",
+      "220gr Flour Segitiga",
+      "8gr Baking Soda",
+      "10gr Ginger Powder",
+      "1/2tsp Cinnamon Powder",
+      "5gr Salt",
+      "Wet Mix:",
+      "120gr Butter",
+      "120gr Sugar",
+      "40gr Brown Sugar",
+      "5gr Vanilla Essence",
+      "1pcs Egg"
+    ],
+    "steps": [
+      "Aduk rata bahan kering pada bowl stainless yang bersih.",
+      "Pada bowl stainless mixer butter agak lembut, lalu masukan sugar dan vanilla essence, aduk hingga rata.",
+      "Lalu tuangkan telur, aduk kembali hingga rata.",
+      "Lalu tuangkan jahe yang sudah diparut.",
+      "Lalu tuangkan sedikit demi sedikit adonan yang kering, lalu aduk rata.",
+      "Lakukan sampai adonan kering habis, lalu istirahatkan dough di chiller selama 2 jam.",
+      "Timbang adonan 10 gr per pcs, lalu bulatkan dan letakan pada tray dengan alas bake well.",
+      "Panggang cookies dengan suhu 165°C selama 15 menit."
+    ]
+  },
+  {
+    "id": 204,
+    "title": "PIZZA BIGA",
+    "time": "24 jam (fermentasi)",
+    "difficulty": "Sedang",
+    "description": "Biga untuk pizza",
+    "ingredients": [
+      "Biga:",
+      "750ml Cold Water",
+      "7gr Yeast",
+      "8gr Honey",
+      "1,2kg Hime Flour",
+      "Pizza:",
+      "100% Biga",
+      "7gr Yeast",
+      "100ml Cold Water",
+      "45gr Salt"
+    ],
+    "steps": [
+      "Untuk membuat biga, campur semua bahan biga pada dough mixer, lalu tempatkan pada container yang bersih, lalu tempatkan dalam chiller, fermentasi selama 24 jam.",
+      "Keesokan harinya, tempatkan kembali biga pada dough mixer bersama sisa bahan pizza, lalu aduk hingga kalis.",
+      "Timbang dengan berat 270 gr per porsi pizza.",
+      "Untuk pre - cook pizza dough, panggang dengan suhu atas oven 300°C suhu atas dan 200°C, pada oven deck selama 3 menit."
+    ]
+  },
+  {
+    "id": 205,
+    "title": "SAMBAL KECOMBRANG",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sambal kecombrang",
+    "ingredients": [
+      "300gr Shallot",
+      "700gr Red Chili",
+      "120gr Garlic",
+      "15gr Chili",
+      "500gr Ginger Torch (Bunga Kecombrang)",
+      "7pcs Kaffir Lime Leaves",
+      "25gr Terasi",
+      "15gr Sugar",
+      "20gr Salt",
+      "25gr Knorr Chicken"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sambal Kecombrang, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 206,
+    "title": "PEPES IKAN SNAPPER WHOLE",
+    "time": "20-30 menit",
+    "difficulty": "Sedang",
+    "description": "Pepes ikan kakap utuh",
+    "ingredients": [
+      "35gr Lengkuas",
+      "10gr Jahe",
+      "10gr Kunyit",
+      "7gr Kencur",
+      "75gr Shallot",
+      "40gr Garlic",
+      "3gr Cabai Kecil",
+      "100gr Cabai Merah Besar (buang bijinya)",
+      "3tbs Ketumbar Biji",
+      "1/2tsp Merica Hitam Utuh",
+      "100ml Salad Oil",
+      "2,5tsp Salt",
+      "2tdp Knorr Chicken"
+    ],
+    "steps": [
+      "Blender halus semua bahan dengan menggunakan sedikit air, lalu masak dengan minyak selama 15 menit."
+    ]
+  },
+  {
+    "id": 207,
+    "title": "CRISPY FLOUR FOR POP CHICKEN",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Tepung crispy untuk pop chicken",
+    "ingredients": [
+      "1500gr Maizena",
+      "1500gr Medium Flour",
+      "5gr Baking Powder"
+    ],
+    "steps": [
+      "Mix All"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "PANDAN JELLY",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Jelly pandan",
+    "ingredients": [
+      "650ml Water",
+      "1pcs Agar - agar powder",
+      "200gr Gula",
+      "1tsp Perisa pandan"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Pandan Jelly, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 209,
+    "title": "JACK FRUIT JAM",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Selai nangka",
+    "ingredients": [
+      "500gr Jack fruit",
+      "150gr Sugar",
+      "200gr Water",
+      "1tbs Cornstarch"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Jack Fruit Jam, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 210,
+    "title": "TAHI TEA BRULLE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Creme brulee teh Thailand",
+    "ingredients": [
+      "230gr Fresh cream",
+      "80gr Fresh milk",
+      "30gr Sugar",
+      "10gr Thai tea powder",
+      "2pcs Egg yolk"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Tahi Tea Brulle, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 211,
+    "title": "VANILLA SAUCE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Saus vanila",
+    "ingredients": [
+      "300gr Fresh cream",
+      "200gr Fresh milk",
+      "100gr Sugar",
+      "3pcs Egg yolk",
+      "5gr Vanilla essence"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Vanilla Sauce, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 212,
+    "title": "LAVA CAKE CALLEBAUT",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kue lava cokelat Callebaut",
+    "ingredients": [
+      "500gr Dark callebaut",
+      "350gr Incing sugar",
+      "700gr Australian butter",
+      "10pcs Whole egg",
+      "10pcs Egg yolk",
+      "200gr Tepung terigu segitiga biru"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Lava Cake Callebaut, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 213,
+    "title": "SALTED CARAMEL NEW",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Karamel asin (versi baru)",
+    "ingredients": [
+      "30gr Air cleo",
+      "200gr Sugar",
+      "20gr Glucosa",
+      "15ml Lime juice",
+      "160gr Cream elle",
+      "45gr Butter",
+      "3gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Salted Caramel New, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 214,
+    "title": "APPLE TART",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Tart apel",
+    "ingredients": [
+      "750gr Green apple",
+      "50gr Sugar",
+      "1gr Cinnamon powder",
+      "50gr Butter"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Apple Tart, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 215,
+    "title": "CINNAMON LIQUIT FOR APPLE TART",
+    "time": "10-15 menit",
+    "difficulty": "Mudah",
+    "description": "Cairan kayu manis untuk tart apel",
+    "ingredients": [
+      "1ltr Air cleo",
+      "500gr Sugar",
+      "1tsp Cinnamon powder"
+    ],
+    "steps": [
+      "Mix all and cook boiling"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "SUGAR DOUGH",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Adonan gula",
+    "ingredients": [
+      "550gr Tepung segitiga biru",
+      "160gr Incing sugar",
+      "5gr Salt",
+      "300gr Butter",
+      "2pcs Egg yolk"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "FRESH MERENGGUE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Meringue segar",
+    "ingredients": [
+      "150gr Sugar",
+      "60gr Water",
+      "60gr Egg white",
+      "10gr Glucosa"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Fresh Merenggue, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 218,
+    "title": "DRYE MERENGGUE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Meringue kering",
+    "ingredients": [
+      "100gr White egg",
+      "1gr Salt",
+      "15gr Lime juice",
+      "5gr Apple vinegar",
+      "5gr Vanilla extract",
+      "150gr Sugar",
+      "1tsp Constrach"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Drye Merenggue, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 219,
+    "title": "SOURDOUGH BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti sourdough",
+    "ingredients": [
+      "1960gr Water cleo",
+      "720gr Starter",
+      "2850gr Tepung hime",
+      "400gr Tepung whole wheat",
+      "120gr Tepung rye",
+      "85gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sourdough Bread, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 220,
+    "title": "SOURDOUGH LOAF TOAST",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti sourdough panggang",
+    "ingredients": [
+      "990gr Water cleo",
+      "350gr Starter",
+      "1430gr Tepung hime",
+      "260gr Whole wheat",
+      "50gr Salt",
+      "10gr Dry yeast",
+      "20gr Improver"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sourdough Loaf Toast, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 221,
+    "title": "SOURDOUGH FOOCACIA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Focaccia sourdough",
+    "ingredients": [
+      "630gr water cleo",
+      "255gr Starter",
+      "820gr Tepung cakra",
+      "5gr Dry yeast",
+      "30gr Salt"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Sourdough Foocacia, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 222,
+    "title": "GARLIC BREAD FOCCACIA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Focaccia roti bawang putih",
+    "ingredients": [
+      "630gr Water cleo",
+      "255gr Starter",
+      "840gr Tepung cakra",
+      "30gr Salt",
+      "FOR FILLING:",
+      "200gr Mozzarella cheese",
+      "130gr Confit garlic"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Garlic Bread Foccacia, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 223,
+    "title": "BUN BRIOCHE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti bun brioche",
+    "ingredients": [
+      "400gr Susu UHT",
+      "70gr Starter",
+      "15gr Dry yeast",
+      "1pcs Egg yolk",
+      "1pcs Whole egg",
+      "700gr Tepung cakra",
+      "70gr Gula",
+      "15gr Salt",
+      "140gr Australian butter"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Bun Brioche, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 224,
+    "title": "BRIOCHE LOAF TOAST",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti brioche panggang",
+    "ingredients": [
+      "480gr Water cleo",
+      "10gr Dry yeast",
+      "2pcs Whole egg",
+      "110gr Sugar",
+      "1kg Tepung cakra",
+      "10gr Bread improver",
+      "5gr Baking powder",
+      "50gr Milk powder",
+      "20gr Salt",
+      "70gr Australian butter",
+      "530gr Starter"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Brioche Loaf Toast, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 225,
+    "title": "EGG WASH",
+    "time": "5 menit",
+    "difficulty": "Mudah",
+    "description": "Olesan telur",
+    "ingredients": [
+      "3pcs Egg yolk",
+      "30gr Milk",
+      "30gr Cream"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "SWEET BUN BURGER",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti bun burger manis",
+    "ingredients": [
+      "510gr Water cleo",
+      "40gr Starter",
+      "15gr Dry yeast",
+      "40gr Olive oil",
+      "300gr Sweet potato baked",
+      "1kg Tepung cakra",
+      "10gr Baking powder",
+      "15gr Bread improver",
+      "15gr Salt"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "BBQ BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti BBQ",
+    "ingredients": [
+      "1340gr Water cleo",
+      "500gr Starter",
+      "30gr Dry yeast",
+      "120gr Olive oil",
+      "40gr Salt",
+      "2kg tepung cakra"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "BIGA",
+    "time": "24 jam (simpan di kulkas)",
+    "difficulty": "Sedang",
+    "description": "Biga untuk roti",
+    "ingredients": [
+      "1500gr Cool water cleo",
+      "15gr Dry yeast",
+      "20gr Honey",
+      "2,4kg Tepung hime"
+    ],
+    "steps": [
+      "Siapkan bowl Campurkan semua bahan sampai merata dan simpan di kulkas selama 24 jam."
+    ]
+  },
+  {
+    "id": 229,
+    "title": "BIGA PIZZA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Biga untuk pizza",
+    "ingredients": [
+      "100%/2845gr Biga",
+      "15gr Dry yeast",
+      "200gr Cool water",
+      "90gr Salt",
+      "100gr Starter",
+      "50gr Olive oil"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "PIZZA DOUGH (B)",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Adonan pizza (B)",
+    "ingredients": [
+      "2300gr Tepung Cakra",
+      "45gr Dry Yeast",
+      "1500ml Cool water",
+      "70gr Olive Oil",
+      "70gr honey",
+      "40gr salt"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "GLUTEN FREE BREAD",
+    "time": "2 jam (resting) + 1 jam (oven)",
+    "difficulty": "Sulit",
+    "description": "Roti bebas gluten",
+    "ingredients": [
+      "STARTER:",
+      "200ml Water",
+      "10gr Dry yeast",
+      "145gr Cassava Flour",
+      "145gr Rice flour",
+      "STEP 1:",
+      "480gr Tepung beras",
+      "240gr Tepung tapioka",
+      "40gr tepung Pisang",
+      "40gr Dry yeast",
+      "40gr Xhantan gum",
+      "20gr Bread improver",
+      "60gr Brown Sugar",
+      "STEP 2:",
+      "500gr Water",
+      "24gr vinegar",
+      "60gr Olive oil",
+      "120gr Flax seed",
+      "STEP 3:",
+      "100% starter",
+      "20gr Salt"
+    ],
+    "steps": [
+      "Campurkan semua bahan starter, step 1, step 2 dan step 3 dalam bowl mixer lalu mix dengan kecepatan sedang sampai merata.",
+      "Dan siapkan loyang bread white toast lalu masukan dan biar mengembang sampai melewati batas loyang tersebut.",
+      "Baru di oven dengan Suhu 175 derajat celcius selama 1 jam sambil dicek kematangan dengan menggunakan tusuk sate dengan cara ditusuk jika masih menempel berarti belum matang."
+    ]
+  },
+  {
+    "id": 232,
+    "title": "WHITE TOAST (B)",
+    "time": "15-23 menit (mix)",
+    "difficulty": "Sedang",
+    "description": "Roti tawar putih (B)",
+    "ingredients": [
+      "3kg Tepung Cakra",
+      "40gr Dry Yeast",
+      "25gr Bread improver",
+      "20gr Baking Powder",
+      "200gr Milk Powder",
+      "15gr Salt",
+      "250gr Sugar",
+      "325gr Butter",
+      "5gr Vanilla Essence",
+      "3pcs Whole Egg"
+    ],
+    "steps": [
+      "Campurkan semua bahan di bowl mixer dan aduk kecepatan sedang selama 15 - 23 menit dan menjadi khalis."
+    ]
+  },
+    {
+    "id": 233,
+    "title": "PANDAN PANNACOTA (B)",
+    "time": "15-20 menit + pendinginan",
+    "difficulty": "Mudah",
+    "description": "Pannacotta pandan (B)",
+    "ingredients": [
+      "200gr Santan kara",
+      "300gr mlk UHT",
+      "50gr Sugar",
+      "10gr Powder",
+      "35gr Air",
+      "1tsp Perisa pandan"
+    ],
+    "steps": [
+      "Rendam Gelatin dengan 35gr air dan simpan dalam kulkas.",
+      "Campurkan Semua Bahan dalam saucepan Panaskan sampai mendidih lalu masukan gelatin yang sudah direndam dengan air dingin aduk sampai rata lalu biarkan dingin dengan suhu ruangan."
+    ]
+  },
+  {
+    "id": 234,
+    "title": "CREAME BRULLE (B)",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Creme brulee (B)",
+    "ingredients": [
+      "700gr Fresh cream",
+      "250gr Fresh milk",
+      "100gr sugar",
+      "5gr Vanilla",
+      "6pcs Egg yolk"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Creame Brulle (B), hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 235,
+    "title": "LAVACAKE (B)",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Lava cake (B)",
+    "ingredients": [
+      "500gr Dark coklat",
+      "500gr Butter",
+      "200gr Sugar",
+      "10pcs Whole Egg",
+      "10pcs Egg yolk",
+      "200gr Tepung segi tiga biru"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Lavacake (B), hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 236,
+    "title": "BUTTER SCOTCH (B)",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Butterscotch (B)",
+    "ingredients": [
+      "500gr Fresh cream",
+      "100gr Brown Sugar",
+      "100gr White Sugar",
+      "50gr Butter",
+      "1tsp CInnamon powder"
+    ],
+    "steps": [
+      "Siapkan Saucepan lalu masukan semua bahan lalu masak dengan api sedang sampai semua bahan larut lalu turunkan."
+    ]
+  },
+  {
+    "id": 237,
+    "title": "SPONGE CAKE BASIC",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Sponge cake dasar",
+    "ingredients": [
+      "200gr tepung segi tiga biru",
+      "65gr Cornstarch",
+      "65gr Milk powder",
+      "15gr Baking powder",
+      "200gr White sugar",
+      "15pcs Whole egg",
+      "70gr Emulsipayer For Cake (SP)",
+      "200gr Butter (melted)"
+    ],
+    "steps": [
+      "Siapkan loyang kue yang sudah dioles dengan butter dan dilapisi kertas roti atau bakewell dan cairkan butter terlebih dahulu.",
+      "Baru siapkan bowl yang kering lalu masukan telur, gula dan (SP) mixer dengan speed tinggi sampai halus dan kaku bisa menggunakan hand mixer atau stand mixer.",
+      "Setelah itu campurkan bahan kering dan diaduk rata dan disaring baru masukan ke dalam campuran telur yang sudah di mix dengan perlahan agar tidak pecah atau dan masukan butter yang sudah di melted dengan perlahan juga."
+    ]
+  },
+  {
+    "id": 238,
+    "title": "COCOLATE GANACTH",
+    "time": "15-20 menit",
+    "difficulty": "Mudah",
+    "description": "Ganache cokelat",
+    "ingredients": [
+      "75gr Cream",
+      "75gr Milk UHT",
+      "250gr Dark chocolate",
+      "3gr Gelatin powder",
+      "15gr Water"
+    ],
+    "steps": [
+      "Rendam gelatine dengan air 15gr dan simpan dalam kulkas.",
+      "Potonglah terlebih dahulu coklat kecil - kecil lalu di cairkan dengan cara di bain marie.",
+      "Panaskan susu dan cream hingga suhu 80 celsius lalu campurkan semua bahaa dengan cara di aduk menggunakan balowisk sampai merata."
+    ]
+  },
+  {
+    "id": 239,
+    "title": "COMBUCHA",
+    "time": "2 minggu (fermentasi)",
+    "difficulty": "Sedang",
+    "description": "Kombucha",
+    "ingredients": [
+      "19ltr water cleo",
+      "950gr sugar",
+      "15pcs teh sari wangi"
+    ],
+    "steps": [
+      "Siapkan panci besar dan panaskan air sampai mendidih lalu masukan gula dan teh celup sari wangi dan angkat teh kalo sudah berwarna kecoklatan dan biarkan dingin 5 - 6 jam baru bisa difermentasi selama 2 minggu."
+    ]
+  },
+  {
+    "id": 240,
+    "title": "BUTTER CREAM FOR CAKE BASIC",
+    "time": "10-15 menit",
+    "difficulty": "Mudah",
+    "description": "Buttercream dasar untuk kue",
+    "ingredients": [
+      "500gr Cream elle",
+      "100gr Icing sugar"
+    ],
+    "steps": [
+      "Siapkan bowl yang kering masukan semua bahan dan dimix dengan hand mixer atau stand mixer sampai kaku dan halus."
+    ]
+  },
+  {
+    "id": 241,
+    "title": "BAGUETTE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti baguette",
+    "ingredients": [
+      "1kg Cakra flour",
+      "20gr Dry yeast",
+      "10gr Baking Powder",
+      "15gr Bread improver",
+      "100gr Butter",
+      "15gr salt",
+      "700gr Cool Water"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "BBQ BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti BBQ",
+    "ingredients": [
+      "2kg Cakra Flour",
+      "1350gr Water",
+      "60gr Dry yeast",
+      "150gr Butter",
+      "40gr Salt"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "FOCCACIA BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti focaccia",
+    "ingredients": [
+      "2kg Cakra Flour",
+      "60gr Dry Yeast",
+      "10gr Dry rosemary",
+      "40gr Salt",
+      "150gr Butter",
+      "20gr Fresh Basil",
+      "30gr Black olive",
+      "10gr Dry Oregano",
+      "1200gr Water"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "FLAT BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti pipih",
+    "ingredients": [
+      "550gr Water",
+      "1kg Cakara Flour",
+      "20gr Dry Yeast",
+      "20gr salt",
+      "10gr Dry rosemary",
+      "10gr Dry Oregano",
+      "30gr Olive oil",
+      "30gr Honey"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "SEEDED BREAD",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti biji-bijian",
+    "ingredients": [
+      "450gr Water",
+      "1kg Cakra Flour",
+      "250gr Rye flour",
+      "30gr Dry Yeast",
+      "20gr Salt",
+      "100gr Sunflower Oil",
+      "100gr Butter"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "BUN BURGER",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Roti bun burger",
+    "ingredients": [
+      "225gr Milk UHT",
+      "1kg Cakra flour",
+      "400gr Segitiga flour",
+      "140gr Sugar",
+      "30gr Dry Yeast",
+      "400gr Water",
+      "3pcs Whole egg",
+      "150gr Butter",
+      "20gr Salt"
+    ],
+    "steps": [
+      "Mix All"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "LEAVAIN",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Levain",
+    "ingredients": [
+      "345gr Water",
+      "150gr Levain",
+      "440gr Hime flour"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "FEEDING STARTER",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Memberi makan starter",
+    "ingredients": [
+      "250gr Water",
+      "600gr Levain",
+      "380gr Hime flour"
+    ],
+    "steps": [
+      "Mix all"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "YEAST WATER",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Air ragi",
+    "ingredients": [
+      "1ltr Cleo water",
+      "200gr Raisin/Kismis",
+      "20gr Sugar"
+    ],
+    "steps": [
+      "Mix All"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "CINAMON GRANOLLA",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Granola kayu manis",
+    "ingredients": [
+      "500gr rolled oat",
+      "360gr Segitiga Flour",
+      "15gr Baking powder",
+      "250gr Brown sugar",
+      "10gr Salt",
+      "1tsp Cinnamon powder",
+      "350gr Salad oil",
+      "100gr Sun flower seed",
+      "100gr Cashewnut",
+      "100gr Coconut Flake",
+      "100gr Raisin"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Cinamon Granola, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 251,
+    "title": "CINNAMON APPLE COMPOTED",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kompote apel kayu manis",
+    "ingredients": [
+      "900gr Green apple",
+      "30gr Butter",
+      "100gr Brown Sugar",
+      "35gr Raisin",
+      "1gr Cinnamon powder",
+      "5gr Cornstarch"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Cinnamon Apple Compoted, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 252,
+    "title": "OAT’S PORIDGE",
+    "time": "1 jam (perendaman) + 15-20 menit (masak)",
+    "difficulty": "Mudah",
+    "description": "Bubur oat",
+    "ingredients": [
+      "500gr Rolled oat’s",
+      "800gr Fresh milk",
+      "1200gr Water",
+      "2gr Salt"
+    ],
+    "steps": [
+      "Rendam terlebih dahulu oats dengan susu dan air selama kurang lebih 1 jam baru di masak sampai matang dan masukan garam."
+    ]
+  },
+  {
+    "id": 253,
+    "title": "COCONUT NECTAR",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Nektar kelapa",
+    "ingredients": [
+      "1kg Palm Sugar",
+      "1ltr Cleo water",
+      "2gr Salt"
+    ],
+    "steps": [
+      "Masak sampai kental dengan api sedang."
+    ]
+  },
+  {
+    "id": 254,
+    "title": "ORANGE FLUORIT GEL",
+    "time": "15-20 menit + pendinginan",
+    "difficulty": "Mudah",
+    "description": "Gel fluorit jeruk",
+    "ingredients": [
+      "500gr Fresh orang",
+      "25gr Sugar",
+      "6,5gr Agar - agar powder",
+      "20gr Lime Juice"
+    ],
+    "steps": [
+      "Campurkan semua bahan sampai mendidih lalu biarkan dingin dan masukan dalam kulkas setelah mengeras baru diblender sampai halus."
+    ]
+  },
+  {
+    "id": 255,
+    "title": "COCONUT TUIL’S",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Tuile kelapa",
+    "ingredients": [
+      "50gr V soy milk",
+      "10gr Salad oil",
+      "30gr Salad oil",
+      "30gr Cakra flour",
+      "2gr Salt",
+      "15gr Desiccated coconut"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Coconut Tuil’s, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 256,
+    "title": "GINGER COOKIES",
+    "time": "11 jam (simpan di kulkas) + 15 menit (oven)",
+    "difficulty": "Sedang",
+    "description": "Kue jahe",
+    "ingredients": [
+      "220gr Segitiga flour",
+      "8gr Baking Soda",
+      "10gr Ginger Powder",
+      "1/2stp Cinnamon powder",
+      "5gr Salt"
+    ],
+    "steps": [
+      "Siapkan bowl mixer yang Kering lalu masukan semua bahan dan diaduk sampai merata.",
+      "Setelah itu angkat adonan dan simpan dalam kulkas selama 11 jam barulah bisa di cetak masing - masing beratnya 10 gr per biji baru di oven dengan suhu 165 selama 15 menit."
+    ]
+  },
+  {
+    "id": 257,
+    "title": "CRUTONGS",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kruton",
+    "ingredients": [
+      "650gr Sourdugh (sisa bread)",
+      "200gr Butter Melted",
+      "1tbs Onion Powder",
+      "2tbs Smoke paprika",
+      "2tbs Garlic powder"
+    ],
+    "steps": [
+      "Potong - potonglah terlebih dahulu sourdough bread kecil - kecil lalu campurkan semua bahan sambil diaduk dengan tangan agar merata baru di oven."
+    ]
+  },
+  {
+    "id": 258,
+    "title": "STRAWBERRY COMPOTED",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Kompote stroberi",
+    "ingredients": [
+      "500gr Strawberry frozen",
+      "300gr Sugar",
+      "15gr Maezena",
+      "air secukupnya"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Strawberry Compoted, hanya daftar bahan."
+    ]
+  },
+  {
+    "id": 259,
+    "title": "TEMPE CRUMBLE",
+    "time": "Tidak disebutkan",
+    "difficulty": "Tidak disebutkan",
+    "description": "Tempe crumble",
+    "ingredients": [
+      "320gr Tempe",
+      "15gr Garlic Powder",
+      "3gr Onion Powder",
+      "2gr Paprika Powder",
+      "5gr Salt",
+      "2gr Icing Sugar"
+    ],
+    "steps": [
+      "Tidak ada langkah spesifik yang diberikan dalam teks untuk Tempe Crumble, hanya daftar bahan."
+    ]
+  }
+]
